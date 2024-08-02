@@ -13,6 +13,14 @@
   "k": [],
   "l": [
     {
+      "game_name": "Lego Battles",
+      "game_region": "USA",
+      "base_name": "Mario Kart DS",
+      "base_region": "USA",
+      "status": 1,
+      "notes": "None"
+    },
+    {
       "game_name": "Lego Indiana Jones 2: The Adventure Continues",
       "game_region": "EUR",
       "base_name": "Wario Ware: Touched!",
