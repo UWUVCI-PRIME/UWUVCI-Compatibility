@@ -27,6 +27,14 @@
       "base_region": "EUR",
       "status": 2,
       "notes": "Invisible UI Elements until you open the Suspend Screen (ZR)."
+    },
+    {
+      "game_name": "Lego Star Wars: The Complete Saga",
+      "game_region": "USA",
+      "base_name": "Yoshi's Island DS",
+      "base_region": "USA",
+      "status": 2,
+      "notes": "UI on main menu and in between menus flickers a bit, but otherwise everything is fine"
     }
   ],
   "m": [],
