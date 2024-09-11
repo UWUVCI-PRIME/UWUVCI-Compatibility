@@ -13,6 +13,14 @@
   "k": [],
   "l": [
     {
+      "game_name": "Legay of Ys: Books I && II",
+      "game_region": "USA",
+      "base_name": "New Super Mario Bros.",
+      "base_region": "USA",
+      "status": 1,
+      "notes": "None"
+    },
+    {
       "game_name": "Lego Battles",
       "game_region": "USA",
       "base_name": "Mario Kart DS",
