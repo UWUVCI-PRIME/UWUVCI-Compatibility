@@ -1,7 +1,7 @@
 { "compatibility":
   [
     {
-      "game_name": "Legay of Ys: Books I && II",
+      "game_name": "Legacy of Ys: Books I & II",
       "game_region": "USA",
       "base_name": "New Super Mario Bros.",
       "base_region": "USA",
@@ -31,6 +31,23 @@
       "base_region": "USA",
       "status": 2,
       "notes": "UI on main menu and in between menus flickers a bit, but otherwise everything is fine"
+    },
+    {
+      "game_name": "Newer Super Mario Bros DS",
+      "game_region": "EUR",
+      "base_game": "Yoshi's Island DS",
+      "base_region": "EUR",
+      "status": 0,
+      "notes": "Romhack from: https://www.romhacking.net/hacks/3892/"
+    },
+    {
+      "game_name": "Newer Super Mario Bros DS",
+      "game_region": "USA",
+      "base_game": "New Super Mario Bros.",
+      "base_region": "USA",
+      "status": 2,
+      "notes": "Get the romhack here: https://www.romhacking.net/hacks/3892/. Use this Patch (https://drive.google.com/file/d/1-0P7es7PX8YTc6bBoMBivjdBfGo5m5a2/view) on the Rom before Injecting."
     }
+    
   ]
 }
