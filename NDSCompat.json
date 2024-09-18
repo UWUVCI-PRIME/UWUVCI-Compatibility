@@ -1,17 +1,5 @@
 {
-  "#": [],
-  "a": [],
-  "b": [],
-  "c": [],
-  "d": [],
-  "e": [],
-  "f": [],
-  "g": [],
-  "h": [],
-  "i": [],
-  "j": [],
-  "k": [],
-  "l": [
+  [
     {
       "game_name": "Legay of Ys: Books I && II",
       "game_region": "USA",
@@ -44,19 +32,5 @@
       "status": 2,
       "notes": "UI on main menu and in between menus flickers a bit, but otherwise everything is fine"
     }
-  ],
-  "m": [],
-  "n": [],
-  "o": [],
-  "p": [],
-  "q": [],
-  "r": [],
-  "s": [],
-  "t": [],
-  "u": [],
-  "v": [],
-  "w": [],
-  "x": [],
-  "y": [],
-  "z": []
+  ]
 }
