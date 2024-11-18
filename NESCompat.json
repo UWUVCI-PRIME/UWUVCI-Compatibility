@@ -265,7 +265,7 @@
          "notes":"Shows a USB storage error screen, no woarkaround for the moment. Patch version unknown."
       },
       {
-         "game_name":"",
+         "game_name":"Metroid MOTHER (hack)",
          "game_region":"USA",
          "base_name":"Metal Slade Glory",
          "base_region":"JPN",
@@ -273,7 +273,7 @@
          "notes":"The game will sometimes break if you try to load a save state forcing you to reset the game, everything else works just fine. Patch Version 1.0. Link: https://www.romhacking.net/hacks/1988/"
       },
       {
-         "game_name":"",
+         "game_name":"Metroid + Saving (hack)",
          "game_region":"USA",
          "base_name":"Metal Slader Glory",
          "base_region":"JPN",
