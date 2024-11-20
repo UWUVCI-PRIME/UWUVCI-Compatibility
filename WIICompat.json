@@ -6,7 +6,25 @@
          "base_name":"Test",
          "base_region":"USA",
          "status":2,
+         "gamepad":2,
+         "notes":"Ignore This"
+      },
+      {
+         "game_name":"Test",
+         "game_region":"USA",
+         "base_name":"Test",
+         "base_region":"USA",
+         "status":2,
          "gamepad":1,
+         "notes":"Ignore This"
+      },
+      {
+         "game_name":"Test",
+         "game_region":"USA",
+         "base_name":"Test",
+         "base_region":"USA",
+         "status":2,
+         "gamepad":0,
          "notes":"Ignore This"
       }
    ]
