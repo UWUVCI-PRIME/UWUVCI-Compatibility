@@ -1793,6 +1793,14 @@
       "notes": "None"
     },
     {
+      "game_name": "Mario VS. Wario Ware",
+      "game_region": "USA",
+      "base_name": "F-Zero X",
+      "base_region": "USA",
+      "status": 0,
+      "notes": "Stuck on a black screen, but VC Menu is still openable."
+    },
+    {
       "game_name": "Mario's Nightmare 64 (Super Mario 64 romhack)",
       "game_region": "USA",
       "base_name": "The Legend of Zelda: Majora's Mask",
