@@ -2008,6 +2008,15 @@
       "notes": "Also known as Kirby's Adventure - EU, game uses Sideway remote for gameplay so Wiimote emulation patch works and game boots fine, however at the title screen, you'll get the \"Please disconnect the unsupported external extension controller from the Wii Remote\". You wont be able to get back this screen. Classic Controller GCT codes can't be used since the main.dol file has Metafortress protection. Any mods to the main.dol file will result in black screen. Also works on EUR region console."
     },
     {
+      "game_name": "Kirby’s Return To Dream Land ",
+      "game_region": "USA",
+      "base_name": "Rhythm Heaven Fever",
+      "base_region": "USA",
+      "status": 2,
+      "gamepad": 2,
+      "notes": "Gamepad works if main.dol is patched with Floating IPS file or Riivolution XML File to disable Metafortress, and a Classic Controller Support Code. Metafortress Protection MUST BE REMOVED, OR THE GAME WILL BOOT TO A BLACK SCREEN!  https://gbatemp.net/threads/new-classic-controller-hacks.659837/post-10544615"
+    },
+    {
       "game_name": "Klonoa",
       "game_region": "EUR",
       "base_name": "Rhythm Heaven Fever",
