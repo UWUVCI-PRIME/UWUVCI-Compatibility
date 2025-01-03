@@ -4447,6 +4447,15 @@
       "notes": "Ignore this entry. This is a Submission Test using the Bot."
     },
     {
+      "game_name": "Test Submission Working ",
+      "game_region": "ANY",
+      "base_name": "any",
+      "base_region": "Eur",
+      "status": 2,
+      "gamepad": 2,
+      "notes": "None"
+    },
+    {
       "game_name": "Tetris Party Deluxe",
       "game_region": "EUR",
       "base_name": "Rhythm Heaven Fever",
