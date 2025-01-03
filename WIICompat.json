@@ -4438,40 +4438,6 @@
       "notes": "WBFS to full ISO, game is patched with english subtitles, use patched fw.img, stock fw.img gives black screen. Note: USA/PAL version of Tenchu 4 also called Tenchu Shadow Assassins didn't have progresive scan option as the japanese one."
     },
     {
-      "game_name": "Test Submission ",
-      "game_region": "ANY",
-      "base_name": "Rhytmn Heaven Fever",
-      "base_region": "ANY",
-      "gamepad_support": 1,
-      "status": 1,
-      "notes": "Ignore this entry. This is a Submission Test using the Bot."
-    },
-    {
-      "game_name": "Test Submission Not Working ",
-      "game_region": "JPN",
-      "base_name": "Any",
-      "base_region": "Any",
-      "status": 0,
-      "gamepad": 1,
-    },
-      {
-      "game_name": "Test Submission ISSUES ",
-      "game_region": "EUR",
-      "base_name": "ANY",
-      "base_region": "USA",
-      "status": 1,
-      "gamepad": 1,
-    },
-    {
-      "game_name": "Test Submission Working ",
-      "game_region": "ANY",
-      "base_name": "any",
-      "base_region": "Eur",
-      "status": 2,
-      "gamepad": 2,
-      "notes": "None"
-    },
-    {
       "game_name": "Tetris Party Deluxe",
       "game_region": "EUR",
       "base_name": "Rhythm Heaven Fever",
