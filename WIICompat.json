@@ -2521,6 +2521,15 @@
       "notes": "Also known as Mario Strikers Charged Football - EU. Also works on EUR region console."
     },
     {
+      "game_name": "Mario Strikers Charged ",
+      "game_region": "USA",
+      "base_name": "Rhythm Heaven Fever",
+      "base_region": "USA",
+      "status": 2,
+      "gamepad": 2,
+      "notes": "Gamepad works if you patch main.dol with Classic Controller Support Code, and enable Force Classic Controller in your injection software. 'New  https://gbatemp.net/threads/new-classic-controller-hacks.659837/post-10561194"
+    },
+    {
       "game_name": "Mario Super Sluggers",
       "game_region": "USA",
       "base_name": "Rhythm Heaven Fever",
