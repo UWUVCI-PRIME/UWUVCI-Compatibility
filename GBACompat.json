@@ -9,6 +9,14 @@
       "notes": "None"
     },
     {
+      "game_name": "A Shadow's Tale",
+      "game_region": "USA",
+      "base_name": "Mario & Luigi: Superstar Saga",
+      "base_region": "USA",
+      "status": 2,
+      "notes": "None"
+    },
+    {
       "game_name": "Ace Combat Advance",
       "game_region": "USA",
       "base_name": "Mario & Luigi: Superstar Saga",
@@ -153,18 +161,18 @@
       "notes": "None"
     },
     {
-      "game_name": "All-Star Baseball 2003",
-      "game_region": "USA",
-      "base_name": "Mario & Luigi: Superstar Saga",
-      "base_region": "USA",
-      "status": 2,
-      "notes": "None"
-    },
-    {
       "game_name": "All Grown Up! Volume 1 (GameBoy Advance Video)",
       "game_region": "USA",
       "base_name": "Rockman4.5",
       "base_region": "JPN",
+      "status": 2,
+      "notes": "None"
+    },
+    {
+      "game_name": "All-Star Baseball 2003",
+      "game_region": "USA",
+      "base_name": "Mario & Luigi: Superstar Saga",
+      "base_region": "USA",
       "status": 2,
       "notes": "None"
     },
@@ -289,14 +297,6 @@
       "notes": "None"
     },
     {
-      "game_name": "Artic Tale",
-      "game_region": "USA",
-      "base_name": "Mario & Luigi: Superstar Saga",
-      "base_region": "USA",
-      "status": 2,
-      "notes": "None"
-    },
-    {
       "game_name": "Army Men - Operation Green",
       "game_region": "USA",
       "base_name": "Mario & Luigi: Superstar Saga",
@@ -337,7 +337,7 @@
       "notes": "None"
     },
     {
-      "game_name": "A Shadow's Tale",
+      "game_name": "Artic Tale",
       "game_region": "USA",
       "base_name": "Mario & Luigi: Superstar Saga",
       "base_region": "USA",
@@ -441,7 +441,7 @@
       "notes": "None"
     },
     {
-      "game_name": "Banjo-Kazooie - Grunty's Revenge",
+      "game_name": "Banjo Pilot",
       "game_region": "USA",
       "base_name": "Mario & Luigi: Superstar Saga",
       "base_region": "USA",
@@ -449,7 +449,7 @@
       "notes": "None"
     },
     {
-      "game_name": "Banjo Pilot",
+      "game_name": "Banjo-Kazooie - Grunty's Revenge",
       "game_region": "USA",
       "base_name": "Mario & Luigi: Superstar Saga",
       "base_region": "USA",
@@ -513,7 +513,7 @@
       "notes": "None"
     },
     {
-      "game_name": "Beyblade VForce - Ultimate Blader Jam",
+      "game_name": "Beyblade G-Revolution",
       "game_region": "USA",
       "base_name": "Mario & Luigi: Superstar Saga",
       "base_region": "USA",
@@ -521,7 +521,7 @@
       "notes": "Slight audio crackle."
     },
     {
-      "game_name": "Beyblade G-Revolution",
+      "game_name": "Beyblade VForce - Ultimate Blader Jam",
       "game_region": "USA",
       "base_name": "Mario & Luigi: Superstar Saga",
       "base_region": "USA",
@@ -1177,14 +1177,6 @@
       "notes": "None"
     },
     {
-      "game_name": "Game Boy Advance Video: The Adventures of Jimmy Neutron, Boy Genius",
-      "game_region": "USA",
-      "base_name": "Legend of Zelda: Minish Cap",
-      "base_region": "USA",
-      "status": 2,
-      "notes": "None"
-    },
-    {
       "game_name": "Game Boy Advance Video: Rugrats: All Grown Up!",
       "game_region": "USA",
       "base_name": "Legend of Zelda: Minish Cap",
@@ -1199,6 +1191,14 @@
       "base_region": "USA",
       "status": 0,
       "notes": "Freezes on black screen after preview."
+    },
+    {
+      "game_name": "Game Boy Advance Video: The Adventures of Jimmy Neutron, Boy Genius",
+      "game_region": "USA",
+      "base_name": "Legend of Zelda: Minish Cap",
+      "base_region": "USA",
+      "status": 2,
+      "notes": "None"
     },
     {
       "game_name": "Gensou Suikoden - Card Stories",
@@ -1337,14 +1337,6 @@
       "notes": "None"
     },
     {
-      "game_name": "Jazz Jackrabbit",
-      "game_region": "USA",
-      "base_name": "Mario & Luigi: Superstar Saga",
-      "base_region": "USA",
-      "status": 2,
-      "notes": "None"
-    },
-    {
       "game_name": "Jajamaru Jr. Denshouki: Jalecolle mo Arisourou",
       "game_region": "JPN",
       "base_name": "Mario & Luigi: Superstar Saga",
@@ -1353,39 +1345,7 @@
       "notes": "The main game plays fine, NES games works with minor slowdown (in-game emulator issue)"
     },
     {
-      "game_name": "Kirby's Dream Land",
-      "game_region": "USA",
-      "base_name": "Mario & Luigi: Superstar Saga",
-      "base_region": "USA",
-      "status": 2,
-      "notes": "None"
-    },
-    {
-      "game_name": "Kirby's Dream Land DX",
-      "game_region": "USA",
-      "base_name": "Mario & Luigi: Superstar Saga",
-      "base_region": "USA",
-      "status": 2,
-      "notes": "Version 1.3"
-    },
-    {
-      "game_name": "Kirby's Dream Land 2",
-      "game_region": "USA",
-      "base_name": "Mario & Luigi: Superstar Saga",
-      "base_region": "USA",
-      "status": 2,
-      "notes": "None"
-    },
-    {
-      "game_name": "Kirby's Pinball Land",
-      "game_region": "USA",
-      "base_name": "Mario & Luigi: Superstar Saga",
-      "base_region": "USA",
-      "status": 2,
-      "notes": "None"
-    },
-    {
-      "game_name": "Kirby's Block Ball",
+      "game_name": "Jazz Jackrabbit",
       "game_region": "USA",
       "base_name": "Mario & Luigi: Superstar Saga",
       "base_region": "USA",
@@ -1409,35 +1369,51 @@
       "notes": "None"
     },
     {
+      "game_name": "Kirby's Block Ball",
+      "game_region": "USA",
+      "base_name": "Mario & Luigi: Superstar Saga",
+      "base_region": "USA",
+      "status": 2,
+      "notes": "None"
+    },
+    {
+      "game_name": "Kirby's Dream Land",
+      "game_region": "USA",
+      "base_name": "Mario & Luigi: Superstar Saga",
+      "base_region": "USA",
+      "status": 2,
+      "notes": "None"
+    },
+    {
+      "game_name": "Kirby's Dream Land 2",
+      "game_region": "USA",
+      "base_name": "Mario & Luigi: Superstar Saga",
+      "base_region": "USA",
+      "status": 2,
+      "notes": "None"
+    },
+    {
+      "game_name": "Kirby's Dream Land DX",
+      "game_region": "USA",
+      "base_name": "Mario & Luigi: Superstar Saga",
+      "base_region": "USA",
+      "status": 2,
+      "notes": "Version 1.3"
+    },
+    {
+      "game_name": "Kirby's Pinball Land",
+      "game_region": "USA",
+      "base_name": "Mario & Luigi: Superstar Saga",
+      "base_region": "USA",
+      "status": 2,
+      "notes": "None"
+    },
+    {
       "game_name": "Klonoa Heroes: The Legendary Star Medal [English Patch no SRAM Patch]",
       "game_region": "USA/JPN",
       "base_name": "Mario & Luigi: Superstar Saga",
       "base_region": "USA",
       "status": 0,
-      "notes": "None"
-    },
-    {
-      "game_name": "The Legend of Zelda: Link's Awakening DX",
-      "game_region": "USA",
-      "base_name": "Mario & Luigi: Superstar Saga",
-      "base_region": "USA",
-      "status": 2,
-      "notes": "None"
-    },
-    {
-      "game_name": "The Legend of Zelda: Oracle of Ages",
-      "game_region": "USA",
-      "base_name": "Mario & Luigi: Superstar Saga",
-      "base_region": "USA",
-      "status": 2,
-      "notes": "None"
-    },
-    {
-      "game_name": "The Legend of Zelda: Oracle of Seasons",
-      "game_region": "USA",
-      "base_name": "Mario & Luigi: Superstar Saga",
-      "base_region": "USA",
-      "status": 2,
       "notes": "None"
     },
     {
@@ -1503,6 +1479,14 @@
       "base_region": "USA",
       "status": 2,
       "notes": "None"
+    },
+    {
+      "game_name": "Mario’s Carnival Quest",
+      "game_region": "USA",
+      "base_name": "Mario & Luigi: Superstar Saga",
+      "base_region": "USA",
+      "status": 2,
+      "notes": "Mod of Mario Party Advance"
     },
     {
       "game_name": "McDonald's - Grimace's Birthday",
@@ -1705,20 +1689,20 @@
       "notes": "Very minor sound glitches during logo screens."
     },
     {
-      "game_name": "PocketNes",
-      "game_region": "USA",
-      "base_name": "Mario & Luigi: Superstar Saga",
-      "base_region": "USA",
-      "status": 2,
-      "notes": "Nes emulator for gba works perfectly."
-    },
-    {
       "game_name": "Pocket Monster Crystal Version (3DS Virtual Console Release)",
       "game_region": "JPN",
       "base_name": "Rockman EXE 4.5",
       "base_region": "JPN",
       "status": 1,
       "notes": "Lots of graphical glitches."
+    },
+    {
+      "game_name": "PocketNes",
+      "game_region": "USA",
+      "base_name": "Mario & Luigi: Superstar Saga",
+      "base_region": "USA",
+      "status": 2,
+      "notes": "Nes emulator for gba works perfectly."
     },
     {
       "game_name": "Pokémon Ash Grey (Fire Red hack)",
@@ -1873,23 +1857,15 @@
       "notes": "Tested to title screen. The Poképatch option must be \"Enabled\" for the inject to work, just like FireRed and LeafGreen."
     },
     {
-      "game_name": "Pokémon Trading Card Game",
-      "game_region": "USA",
-      "base_name": "Mario & Luigi: Superstar Saga",
-      "base_region": "USA",
-      "status": 2,
-      "notes": "None"
-    },
-    {
-      "game_name": "Pokémon Yellow",
-      "game_region": "USA",
-      "base_name": "Mario & Luigi: Superstar Saga",
-      "base_region": "USA",
-      "status": 2,
-      "notes": "None"
-    },
-    {
       "game_name": "Pokémon Theta Emerald (Emerald hack)",
+      "game_region": "USA",
+      "base_name": "Mario & Luigi: Superstar Saga",
+      "base_region": "USA",
+      "status": 2,
+      "notes": "None"
+    },
+    {
+      "game_name": "Pokémon Trading Card Game",
       "game_region": "USA",
       "base_name": "Mario & Luigi: Superstar Saga",
       "base_region": "USA",
@@ -1913,6 +1889,14 @@
       "notes": "The Poképatch option must be \"Enabled\" for the inject to work."
     },
     {
+      "game_name": "Pokémon Yellow",
+      "game_region": "USA",
+      "base_name": "Mario & Luigi: Superstar Saga",
+      "base_region": "USA",
+      "status": 2,
+      "notes": "None"
+    },
+    {
       "game_name": "Rayman Collection",
       "game_region": "USA",
       "base_name": "The Legend of Zelda: The Minish Cap",
@@ -1921,9 +1905,9 @@
       "notes": "None"
     },
     {
-      "game_name": "Rockman Exe 4.5",
+      "game_name": "Rhythm Heaven Silver",
       "game_region": "USA",
-      "base_name": "Mario Kart Super Circuit",
+      "base_name": "Mario & Luigi Superstar Saga",
       "base_region": "USA",
       "status": 2,
       "notes": "None"
@@ -1945,17 +1929,17 @@
       "notes": "None"
     },
     {
-      "game_name": "Rhythm Heaven Silver",
+      "game_name": "Riviera - The Promised Land",
       "game_region": "USA",
-      "base_name": "Mario & Luigi Superstar Saga",
+      "base_name": "The Legend of Zelda: The Minish Cap",
       "base_region": "USA",
       "status": 2,
       "notes": "None"
     },
     {
-      "game_name": "Riviera - The Promised Land",
+      "game_name": "Rockman Exe 4.5",
       "game_region": "USA",
-      "base_name": "The Legend of Zelda: The Minish Cap",
+      "base_name": "Mario Kart Super Circuit",
       "base_region": "USA",
       "status": 2,
       "notes": "None"
@@ -2089,14 +2073,6 @@
       "notes": "Needs patching to work. After the first save going into the the map makes an infinite loop so reset your VC on the infinite map loop, it should work fine from there on, besides the game saying save format corrupted(which it isnt) due to the patch it uses, regardless it saves fine."
     },
     {
-      "game_name": "Super Mario Bros. Deluxe",
-      "game_region": "USA",
-      "base_name": "Mario & Luigi: Superstar Saga",
-      "base_region": "USA",
-      "status": 2,
-      "notes": "None"
-    },
-    {
       "game_name": "Super Mario Bros 3 Special",
       "game_region": "USA",
       "base_name": "Mario & Luigi: Superstar Saga",
@@ -2105,7 +2081,23 @@
       "notes": "Don't inject that, because this game don't have sense"
     },
     {
+      "game_name": "Super Mario Bros. Deluxe",
+      "game_region": "USA",
+      "base_name": "Mario & Luigi: Superstar Saga",
+      "base_region": "USA",
+      "status": 2,
+      "notes": "None"
+    },
+    {
       "game_name": "Super Mario Land",
+      "game_region": "USA",
+      "base_name": "Mario & Luigi: Superstar Saga",
+      "base_region": "USA",
+      "status": 2,
+      "notes": "None"
+    },
+    {
+      "game_name": "Super Mario Land 2",
       "game_region": "USA",
       "base_name": "Mario & Luigi: Superstar Saga",
       "base_region": "USA",
@@ -2119,14 +2111,6 @@
       "base_region": "USA",
       "status": 2,
       "notes": "Version 1.0"
-    },
-    {
-      "game_name": "Super Mario Land 2",
-      "game_region": "USA",
-      "base_name": "Mario & Luigi: Superstar Saga",
-      "base_region": "USA",
-      "status": 2,
-      "notes": "None"
     },
     {
       "game_name": "Super Robot Taisen - Original Generation",
@@ -2188,6 +2172,30 @@
       "game_name": "Tekken Advance",
       "game_region": "USA",
       "base_name": "The Legend of Zelda: The Minish Cap",
+      "base_region": "USA",
+      "status": 2,
+      "notes": "None"
+    },
+    {
+      "game_name": "The Legend of Zelda: Link's Awakening DX",
+      "game_region": "USA",
+      "base_name": "Mario & Luigi: Superstar Saga",
+      "base_region": "USA",
+      "status": 2,
+      "notes": "None"
+    },
+    {
+      "game_name": "The Legend of Zelda: Oracle of Ages",
+      "game_region": "USA",
+      "base_name": "Mario & Luigi: Superstar Saga",
+      "base_region": "USA",
+      "status": 2,
+      "notes": "None"
+    },
+    {
+      "game_name": "The Legend of Zelda: Oracle of Seasons",
+      "game_region": "USA",
+      "base_name": "Mario & Luigi: Superstar Saga",
       "base_region": "USA",
       "status": 2,
       "notes": "None"
