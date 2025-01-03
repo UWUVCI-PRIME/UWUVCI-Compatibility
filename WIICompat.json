@@ -2413,6 +2413,15 @@
       "notes": "Black screen, and it crashed my Wii u so bad i had to unplug the power cord instead of just holding the power button for 4 sec"
     },
     {
+      "game_name": "Mario Kart Wii ",
+      "game_region": "USA",
+      "base_name": "Rhythm Heaven Fever",
+      "base_region": "USA",
+      "status": 2,
+      "gamepad": 2,
+      "notes": "None"
+    },
+    {
       "game_name": "Mario Kart Wii + Wiimmfi",
       "game_region": "EUR",
       "base_name": "Xenoblade Chronicles",
