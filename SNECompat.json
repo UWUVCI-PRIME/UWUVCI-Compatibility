@@ -22,7 +22,7 @@
       "base_name": "Super Metroid",
       "base_region": "USA",
       "status": 2,
-      "notes" : "None"
+      "notes": "None"
     },
     {
       "game_name": "7th Saga, The",
@@ -185,7 +185,7 @@
       "notes": "None"
     },
     {
-      "game_name": "BattleToads Battle Maniacs",
+      "game_name": "BattleTaods Double Dragon",
       "game_region": "USA",
       "base_name": "Super Metroid",
       "base_region": "USA",
@@ -193,7 +193,7 @@
       "notes": "None"
     },
     {
-      "game_name": "BattleTaods Double Dragon",
+      "game_name": "BattleToads Battle Maniacs",
       "game_region": "USA",
       "base_name": "Super Metroid",
       "base_region": "USA",
@@ -281,28 +281,12 @@
       "notes": "None"
     },
     {
-      "game_name": "BS The Legend of Zelda: Ancient Stone Tablets",
-      "game_region": "JPN",
-      "base_name": "Donkey Kong Country",
-      "base_region": "USA",
-      "status": 2,
-      "notes": "Chapters 1 to 4"
-    },
-    {
-      "game_name": "BS The Legend of Zelda: Ancient Stone Tablets (Third Quest)",
+      "game_name": "BS Radical Dreamers",
       "game_region": "JPN",
       "base_name": "Earthbound",
       "base_region": "USA",
-      "status": 0,
-      "notes": "Doesn't boot."
-    },
-    {
-      "game_name": "BS The Legend of Zelda: Ancient Stone Tablets (Fourth Quest)",
-      "game_region": "JPN",
-      "base_name": "Earthbound",
-      "base_region": "USA",
-      "status": 0,
-      "notes": "Doesn't boot."
+      "status": 1,
+      "notes": "Slowdown issues, otherwise playable. Works with translation patch by demiforce, also saves."
     },
     {
       "game_name": "BS The Legend of Zelda (Mottzilla)",
@@ -313,12 +297,28 @@
       "notes": "Boots to blackscreen. This version is meant to run on original hardware."
     },
     {
-      "game_name": "BS Radical Dreamers",
+      "game_name": "BS The Legend of Zelda: Ancient Stone Tablets",
+      "game_region": "JPN",
+      "base_name": "Donkey Kong Country",
+      "base_region": "USA",
+      "status": 2,
+      "notes": "Chapters 1 to 4"
+    },
+    {
+      "game_name": "BS The Legend of Zelda: Ancient Stone Tablets (Fourth Quest)",
       "game_region": "JPN",
       "base_name": "Earthbound",
       "base_region": "USA",
-      "status": 1,
-      "notes": "Slowdown issues, otherwise playable. Works with translation patch by demiforce, also saves."
+      "status": 0,
+      "notes": "Doesn't boot."
+    },
+    {
+      "game_name": "BS The Legend of Zelda: Ancient Stone Tablets (Third Quest)",
+      "game_region": "JPN",
+      "base_name": "Earthbound",
+      "base_region": "USA",
+      "status": 0,
+      "notes": "Doesn't boot."
     },
     {
       "game_name": "Bubsy",
@@ -417,14 +417,6 @@
       "notes": "None"
     },
     {
-      "game_name": "Contra Spirits",
-      "game_region": "JPN",
-      "base_name": "Donkey Kong Country",
-      "base_region": "USA",
-      "status": 2,
-      "notes": "None"
-    },
-    {
       "game_name": "Congo's Caper",
       "game_region": "USA",
       "base_name": "Super Metroid",
@@ -436,6 +428,14 @@
       "game_name": "Contra III - The Alien Wars",
       "game_region": "USA",
       "base_name": "Super Metroid",
+      "base_region": "USA",
+      "status": 2,
+      "notes": "None"
+    },
+    {
+      "game_name": "Contra Spirits",
+      "game_region": "JPN",
+      "base_name": "Donkey Kong Country",
       "base_region": "USA",
       "status": 2,
       "notes": "None"
@@ -465,14 +465,6 @@
       "notes": "None"
     },
     {
-      "game_name": "Dark Half",
-      "game_region": "JPN",
-      "base_name": "Donkey Kong Country",
-      "base_region": "USA",
-      "status": 2,
-      "notes": "Also works with translation patch applied."
-    },
-    {
       "game_name": "Darius Twin",
       "game_region": "USA",
       "base_name": "Earthbound",
@@ -487,6 +479,14 @@
       "base_region": "USA",
       "status": 2,
       "notes": "Didn't notice any slowdown not present in the original when injected into Super Metroid."
+    },
+    {
+      "game_name": "Dark Half",
+      "game_region": "JPN",
+      "base_name": "Donkey Kong Country",
+      "base_region": "USA",
+      "status": 2,
+      "notes": "Also works with translation patch applied."
     },
     {
       "game_name": "Demon's Crest",
@@ -529,12 +529,12 @@
       "notes": "Only tested RPX injection, english patch T+Eng_rpgone works perfectly, does not work on Super Metroid, only on DKC."
     },
     {
-      "game_name": "Dragon Squadron - Danzarb",
+      "game_name": "Dragon Quest 1+2",
       "game_region": "JPN",
-      "base_name": "Donkey Kong Country",
+      "base_name": "Super Metroid",
       "base_region": "USA",
       "status": 2,
-      "notes": "Also works with translation patch applied."
+      "notes": "English patch works."
     },
     {
       "game_name": "Dragon Quest V - Tenkuu no Hanayome",
@@ -545,12 +545,12 @@
       "notes": "None"
     },
     {
-      "game_name": "Dragon Quest 1+2",
+      "game_name": "Dragon Squadron - Danzarb",
       "game_region": "JPN",
-      "base_name": "Super Metroid",
+      "base_name": "Donkey Kong Country",
       "base_region": "USA",
       "status": 2,
-      "notes": "English patch works."
+      "notes": "Also works with translation patch applied."
     },
     {
       "game_name": "E.V.O. Search for Eden",
@@ -705,6 +705,14 @@
       "notes": "None"
     },
     {
+      "game_name": "G.O.D.: Mezameyo to Yobu Koe ga Kikoe",
+      "game_region": "JPN",
+      "base_name": "Donkey Kong Country",
+      "base_region": "USA",
+      "status": 2,
+      "notes": "English patched version"
+    },
+    {
       "game_name": "Ganbare! Daiku no Gen-san",
       "game_region": "JPN",
       "base_name": "Donkey Kong Country",
@@ -719,14 +727,6 @@
       "base_region": "USA",
       "status": 2,
       "notes": "None"
-    },
-    {
-      "game_name": "G.O.D.: Mezameyo to Yobu Koe ga Kikoe",
-      "game_region": "JPN",
-      "base_name": "Donkey Kong Country",
-      "base_region": "USA",
-      "status": 2,
-      "notes": "English patched version"
     },
     {
       "game_name": "Gokujou Parodius",
@@ -929,7 +929,7 @@
       "notes": "None"
     },
     {
-      "game_name": "Lufia: The Fortress of Doom",
+      "game_name": "Lufia II: The Rise of the Sinistrals",
       "game_region": "USA",
       "base_name": "Super Metroid",
       "base_region": "USA",
@@ -937,7 +937,7 @@
       "notes": "None"
     },
     {
-      "game_name": "Lufia II: The Rise of the Sinistrals",
+      "game_name": "Lufia: The Fortress of Doom",
       "game_region": "USA",
       "base_name": "Super Metroid",
       "base_region": "USA",
@@ -1033,20 +1033,20 @@
       "notes": "None"
     },
     {
-      "game_name": "Mighty Morphin' Power Rangers: The Movie",
-      "game_region": "USA",
-      "base_name": "Super Metroid",
-      "base_region": "USA",
-      "status": 2,
-      "notes": "None"
-    },
-    {
       "game_name": "Mighty Morphin' Power Rangers: Fighting Edition",
       "game_region": "USA",
       "base_name": "Super Metroid",
       "base_region": "USA",
       "status": 1,
       "notes": "Character GFX is glitchy, top energy bar scrolls across the screen, EUR version of the game suffers from the same issue. Tried different bases, all the same."
+    },
+    {
+      "game_name": "Mighty Morphin' Power Rangers: The Movie",
+      "game_region": "USA",
+      "base_name": "Super Metroid",
+      "base_region": "USA",
+      "status": 2,
+      "notes": "None"
     },
     {
       "game_name": "Miracle Girls",
@@ -1185,7 +1185,7 @@
       "notes": "Infinite loop of the boot sound on the TV image. Requires holding the power button on the console"
     },
     {
-      "game_name": "Pocky & Rocky",
+      "game_name": "Pocky & Rockey",
       "game_region": "USA",
       "base_name": "Super Metroid",
       "base_region": "USA",
@@ -1193,7 +1193,7 @@
       "notes": "None"
     },
     {
-      "game_name": "Pocky & Rockey",
+      "game_name": "Pocky & Rocky",
       "game_region": "USA",
       "base_name": "Super Metroid",
       "base_region": "USA",
@@ -1220,6 +1220,14 @@
       "game_name": "Pretty solider Sailor Moon - Another Story",
       "game_region": "JPN",
       "base_name": "Donkey Kong Country",
+      "base_region": "USA",
+      "status": 2,
+      "notes": "None"
+    },
+    {
+      "game_name": "R-Type III: The Third Lightning",
+      "game_region": "USA",
+      "base_name": "Super Metroid",
       "base_region": "USA",
       "status": 2,
       "notes": "None"
@@ -1260,14 +1268,6 @@
       "game_name": "Rockman and Forte",
       "game_region": "JPN",
       "base_name": "Donkey Kong Country",
-      "base_region": "USA",
-      "status": 2,
-      "notes": "None"
-    },
-    {
-      "game_name": "R-Type III: The Third Lightning",
-      "game_region": "USA",
-      "base_name": "Super Metroid",
       "base_region": "USA",
       "status": 2,
       "notes": "None"
@@ -1321,6 +1321,14 @@
       "notes": "None"
     },
     {
+      "game_name": "SNES Burn-In Test",
+      "game_region": "USA",
+      "base_name": "Super Mario World",
+      "base_region": "USA",
+      "status": 0,
+      "notes": "Not tested yet."
+    },
+    {
       "game_name": "Soul Blazer",
       "game_region": "USA",
       "base_name": "Super Metroid",
@@ -1361,14 +1369,6 @@
       "notes": "No GSU-2 SP1 support."
     },
     {
-      "game_name": "SNES Burn-In Test",
-      "game_region": "USA",
-      "base_name": "Super Mario World",
-      "base_region": "USA",
-      "status": 0,
-      "notes": "Not tested yet."
-    },
-    {
       "game_name": "Star Ocean",
       "game_region": "JPN",
       "base_name": "Donkey Kong Country",
@@ -1377,17 +1377,17 @@
       "notes": "No S-DD1/ASIC chip support, 48 megabit ROM."
     },
     {
-      "game_name": "Street Fighter II: The World Warrior",
+      "game_name": "Street Fighter II Turbo - Hyper Fighting",
       "game_region": "USA",
-      "base_name": "Super Metroid",
+      "base_name": "Donkey Kong Country",
       "base_region": "USA",
       "status": 2,
       "notes": "None"
     },
     {
-      "game_name": "Street Fighter II Turbo - Hyper Fighting",
+      "game_name": "Street Fighter II: The World Warrior",
       "game_region": "USA",
-      "base_name": "Donkey Kong Country",
+      "base_name": "Super Metroid",
       "base_region": "USA",
       "status": 2,
       "notes": "None"
@@ -1537,17 +1537,25 @@
       "notes": "No GSU-2 SP1 support."
     },
     {
-      "game_name": "Super Metroid: V I T A L I T Y",
+      "game_name": "Super Mario World 2: Yoshi's Island",
       "game_region": "USA",
       "base_name": "Donkey Kong Country",
       "base_region": "USA",
-      "status": 2,
-      "notes": "None"
+      "status": 0,
+      "notes": "Game uses Co-proccesor SuperFX, not compatible with Virtual Console"
     },
     {
       "game_name": "Super Metroid Eris",
       "game_region": "USA",
       "base_name": "Earthbound",
+      "base_region": "USA",
+      "status": 2,
+      "notes": "None"
+    },
+    {
+      "game_name": "Super Metroid: V I T A L I T Y",
+      "game_region": "USA",
+      "base_name": "Donkey Kong Country",
       "base_region": "USA",
       "status": 2,
       "notes": "None"
@@ -1649,6 +1657,22 @@
       "notes": "A bit slow in speed. This does not affect gameplay."
     },
     {
+      "game_name": "Teenage Mutant Ninja Turtles: Tournament Fighters",
+      "game_region": "USA",
+      "base_name": "Super Metroid",
+      "base_region": "USA",
+      "status": 2,
+      "notes": "None"
+    },
+    {
+      "game_name": "Teenage Mutant Ninja Turtles: Turtles in Time",
+      "game_region": "USA",
+      "base_name": "Super Metroid",
+      "base_region": "USA",
+      "status": 2,
+      "notes": "None"
+    },
+    {
       "game_name": "Tenchi Muyou! - Game Hen",
       "game_region": "JPN",
       "base_name": "Donkey Kong Country",
@@ -1745,6 +1769,22 @@
       "notes": "Missing audio channels, no ADSR"
     },
     {
+      "game_name": "The Legend of the Mystic Ninja",
+      "game_region": "USA",
+      "base_name": "Super Metroid",
+      "base_region": "USA",
+      "status": 2,
+      "notes": "None"
+    },
+    {
+      "game_name": "The Legend of Zelda: A Link to the Past",
+      "game_region": "USA",
+      "base_name": "Super Metroid",
+      "base_region": "USA",
+      "status": 2,
+      "notes": "None"
+    },
+    {
       "game_name": "The Lion King",
       "game_region": "USA",
       "base_name": "Donkey Kong Country",
@@ -1785,47 +1825,7 @@
       "notes": "Missing audio channels, no ADSR."
     },
     {
-      "game_name": "The Legend of the Mystic Ninja",
-      "game_region": "USA",
-      "base_name": "Super Metroid",
-      "base_region": "USA",
-      "status": 2,
-      "notes": "None"
-    },
-    {
-      "game_name": "The Legend of Zelda: A Link to the Past",
-      "game_region": "USA",
-      "base_name": "Super Metroid",
-      "base_region": "USA",
-      "status": 2,
-      "notes": "None"
-    },
-    {
-      "game_name": "Tunder Spirits",
-      "game_region": "USA",
-      "base_name": "Super Metroid",
-      "base_region": "USA",
-      "status": 2,
-      "notes": "None"
-    },
-    {
       "game_name": "Tiny Toon Adventures: Buster Busts Loose",
-      "game_region": "USA",
-      "base_name": "Super Metroid",
-      "base_region": "USA",
-      "status": 2,
-      "notes": "None"
-    },
-    {
-      "game_name": "Teenage Mutant Ninja Turtles: Turtles in Time",
-      "game_region": "USA",
-      "base_name": "Super Metroid",
-      "base_region": "USA",
-      "status": 2,
-      "notes": "None"
-    },
-    {
-      "game_name": "Teenage Mutant Ninja Turtles: Tournament Fighters",
       "game_region": "USA",
       "base_name": "Super Metroid",
       "base_region": "USA",
@@ -1844,6 +1844,14 @@
       "game_name": "Toy Story",
       "game_region": "USA",
       "base_name": "Donkey Kong Country",
+      "base_region": "USA",
+      "status": 2,
+      "notes": "None"
+    },
+    {
+      "game_name": "Tunder Spirits",
+      "game_region": "USA",
+      "base_name": "Super Metroid",
       "base_region": "USA",
       "status": 2,
       "notes": "None"
