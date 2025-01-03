@@ -4453,6 +4453,14 @@
       "base_region": "USA",
       "status": 1,
       "gamepad": 1,
+    },
+    {
+      "game_name": "Test Submission Working ",
+      "game_region": "ANY",
+      "base_name": "any",
+      "base_region": "Eur",
+      "status": 2,
+      "gamepad": 2,
       "notes": "None"
     },
     {
