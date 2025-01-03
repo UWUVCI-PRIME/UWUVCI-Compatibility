@@ -118,6 +118,15 @@
       "notes": "fw.img patched to emulate Wii Remote only instead of Classic Controller on GamePad. GamePad control works however there is a scrolling message across the middle of the screen saying: This game doesn't support the extension controller connected to the Wii Remote. Can't get past the Player Name input screen, as motion control is needed to input player name. Also works on EUR region console."
     },
     {
+      "game_name": "Animal Crossing: City Folk ",
+      "game_region": "USA",
+      "base_name": "Rhythm Heaven Fever",
+      "base_region": "USA",
+      "status": 2,
+      "gamepad": 2,
+      "notes": "There's A Classic Controller patch that make gamepad work, you have to patch the game main.dol by yourself"
+    },
+    {
       "game_name": "Anno - Create a New World",
       "game_region": "EUR",
       "base_name": "Rhythm Heaven Fever",
