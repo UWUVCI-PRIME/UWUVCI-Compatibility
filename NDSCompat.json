@@ -953,6 +953,14 @@
       "notes": "Change the fold_on_pause following setting in the configuration_cafe.json to true to solve the puzzle with Mila later in the game (pause the game with ZR or Home to 'close' the emulated DS)."
     },
     {
+      "game_name": "House M.D.-The Official Game",
+      "game_region": "EUR",
+      "base_name": "Super Mario 64 DS",
+      "base_region": "EUR",
+      "status": 2,
+      "notes": "I only did it cuz i thought it was funny lol"
+    },
+    {
       "game_name": "Ice Age 3: Dawn of the Dinosaurs",
       "game_region": "USA",
       "base_name": "Mario Kart DS",
