@@ -4987,6 +4987,15 @@
       "notes": "Have to disable trim, else it wont work."
     },
     {
+      "game_name": "Wii Play Motion ",
+      "game_region": "USA",
+      "base_name": "Rhythm Heaven Fever",
+      "base_region": "USA",
+      "status": 2,
+      "gamepad": 0,
+      "notes": "Disable TRIM Before injecting, or softlock screen will appear"
+    },
+    {
       "game_name": "Wii Play: Motion",
       "game_region": "USA",
       "base_name": "Rhythm Heaven Fever",
