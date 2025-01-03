@@ -19,6 +19,15 @@
       "notes": "Managed to get the GamePad to work! Instructions to long to fit here, instead click Here for FULL instructions to get GamePad working. FIX94's GetExtType Patcher doesn't work as it can't find anything to patch in the main.dol file. Works on EUR region console."
     },
     {
+      "game_name": "A Boy and His Blob",
+      "game_region": "USA",
+      "base_name": "Rhythm Heaven Fever",
+      "base_region": "USA",
+      "status": 2,
+      "gamepad": 0,
+      "notes": "Game doesn't work on EUR region console, use EUR version instead."
+    },
+    {
       "game_name": "A Shadow's Tale",
       "game_region": "EUR",
       "base_name": "Rhythm Heaven Fever",
@@ -307,15 +316,6 @@
       "notes": "Game does not work on EUR region console, NTSC-J to PAL video mode patch must be applied for game to work on EUR/PAL region console. Not tested on USA region console."
     },
     {
-      "game_name": "Bomberman Land Wii",
-      "game_region": "EUR",
-      "base_name": "Rhythm Heaven Fever",
-      "base_region": "USA",
-      "status": 2,
-      "gamepad": 0,
-      "notes": "Game does not support Classic Controller. Also known as Bombermand Land - US. Game may not work on USA region console, try patching ISO with RegionFrii and PAL to NTSC Video Mode patch or use USA version instead."
-    },
-    {
       "game_name": "Bomberman Land",
       "game_region": "USA",
       "base_name": "Rhythm Heaven Fever",
@@ -323,6 +323,15 @@
       "status": 2,
       "gamepad": 0,
       "notes": "Also known as Bombermand Land Wii - EU. Game doesn't work on EUR region console, use EUR version instead."
+    },
+    {
+      "game_name": "Bomberman Land Wii",
+      "game_region": "EUR",
+      "base_name": "Rhythm Heaven Fever",
+      "base_region": "USA",
+      "status": 2,
+      "gamepad": 0,
+      "notes": "Game does not support Classic Controller. Also known as Bombermand Land - US. Game may not work on USA region console, try patching ISO with RegionFrii and PAL to NTSC Video Mode patch or use USA version instead."
     },
     {
       "game_name": "Boom Blox - Bash Party",
@@ -613,7 +622,7 @@
       "notes": "Also works on EUR region console, however system will freeze on exit on EUR region console, use EUR version instead."
     },
     {
-      "game_name": "Crash: Mind Over Mutant",
+      "game_name": "Crash of the Titans",
       "game_region": "USA",
       "base_name": "Rhythm Heaven Fever",
       "base_region": "USA",
@@ -622,7 +631,7 @@
       "notes": "Disable trim or else the game doesn’t wor"
     },
     {
-      "game_name": "Crash of the Titans",
+      "game_name": "Crash: Mind Over Mutant",
       "game_region": "USA",
       "base_name": "Rhythm Heaven Fever",
       "base_region": "USA",
@@ -658,13 +667,13 @@
       "notes": "None"
     },
     {
-      "game_name": "Dancing Stage - Hottest Party",
-      "game_region": "EUR",
+      "game_name": "Dance Dance Revolution",
+      "game_region": "USA",
       "base_name": "Rhythm Heaven Fever",
       "base_region": "USA",
       "status": 2,
       "gamepad": 0,
-      "notes": "Also known as Dance Dance Revolution - Hottest Party. Game may not work on USA region console, try patching ISO with RegionFrii and PAL to NTSC Video Mode patch or use USA version instead."
+      "notes": "Also known as DDR - Hottest Party 4. Also works on EUR region console."
     },
     {
       "game_name": "Dance Dance Revolution - Hottest Party",
@@ -694,15 +703,6 @@
       "notes": "Also works on EUR region console."
     },
     {
-      "game_name": "Dance Dance Revolution",
-      "game_region": "USA",
-      "base_name": "Rhythm Heaven Fever",
-      "base_region": "USA",
-      "status": 2,
-      "gamepad": 0,
-      "notes": "Also known as DDR - Hottest Party 4. Also works on EUR region console."
-    },
-    {
       "game_name": "Dance Dance Revolution II",
       "game_region": "USA",
       "base_name": "Rhythm Heaven Fever",
@@ -710,6 +710,15 @@
       "status": 2,
       "gamepad": 0,
       "notes": "Also known as DDR - Hottest Party 5. Also works on EUR region console."
+    },
+    {
+      "game_name": "Dancing Stage - Hottest Party",
+      "game_region": "EUR",
+      "base_name": "Rhythm Heaven Fever",
+      "base_region": "USA",
+      "status": 2,
+      "gamepad": 0,
+      "notes": "Also known as Dance Dance Revolution - Hottest Party. Game may not work on USA region console, try patching ISO with RegionFrii and PAL to NTSC Video Mode patch or use USA version instead."
     },
     {
       "game_name": "Data East Arcade Classics",
@@ -1063,6 +1072,15 @@
       "notes": "Also works on EUR region console."
     },
     {
+      "game_name": "Earth Seeker (English Translation)",
+      "game_region": "JPN",
+      "base_name": "Rhythm Heaven Fever",
+      "base_region": "USA",
+      "status": 2,
+      "gamepad": 2,
+      "notes": "English translation patch by Brand Newman HERE. Also works on EUR region console. Not tested but should also work on NTSC region console."
+    },
+    {
       "game_name": "El Chavo",
       "game_region": "USA",
       "base_name": "Rhythm Heaven Fever",
@@ -1079,15 +1097,6 @@
       "status": 2,
       "gamepad": 0,
       "notes": "Also known as Eledees. Game doesn't work on EUR region console, use EUR version instead."
-    },
-    {
-      "game_name": "Earth Seeker (English Translation)",
-      "game_region": "JPN",
-      "base_name": "Rhythm Heaven Fever",
-      "base_region": "USA",
-      "status": 2,
-      "gamepad": 2,
-      "notes": "English translation patch by Brand Newman HERE. Also works on EUR region console. Not tested but should also work on NTSC region console."
     },
     {
       "game_name": "Eledees",
@@ -1117,15 +1126,6 @@
       "notes": "Also works on EUR region console."
     },
     {
-      "game_name": "Endless Ocean: Blue World",
-      "game_region": "USA",
-      "base_name": "Xenoblade Chronicles",
-      "base_region": "USA",
-      "status": 2,
-      "gamepad": 0,
-      "notes": "Despite supporting CC you can't get past the first screen on the Gamepad. Also known as Endless Ocean 2 - Adventures of the Deep, also works on EUR region console."
-    },
-    {
       "game_name": "Endless Ocean 2 - Adventures of the Deep",
       "game_region": "EUR",
       "base_name": "Xenoblade Chronicles",
@@ -1133,6 +1133,15 @@
       "status": 2,
       "gamepad": 0,
       "notes": "Despite supporting CC you can't get past the first screen on the Gamepad. Also known as Endless Ocean: Blue World. Game may not work on USA region console, try patching ISO with RegionFrii and PAL to NTSC Video Mode patch or use USA version instead."
+    },
+    {
+      "game_name": "Endless Ocean: Blue World",
+      "game_region": "USA",
+      "base_name": "Xenoblade Chronicles",
+      "base_region": "USA",
+      "status": 2,
+      "gamepad": 0,
+      "notes": "Despite supporting CC you can't get past the first screen on the Gamepad. Also known as Endless Ocean 2 - Adventures of the Deep, also works on EUR region console."
     },
     {
       "game_name": "Excite Truck",
@@ -1414,6 +1423,15 @@
       "notes": "Also works on EUR region console."
     },
     {
+      "game_name": "Gintama Yorozuya Tuve",
+      "game_region": "JPN",
+      "base_name": "Rhythm Heaven Fever",
+      "base_region": "USA",
+      "status": 2,
+      "gamepad": 0,
+      "notes": "Also works on EUR/USA region console."
+    },
+    {
       "game_name": "Go Vacation",
       "game_region": "EUR",
       "base_name": "Rhythm Heaven Fever",
@@ -1468,15 +1486,6 @@
       "notes": "Also works on EUR region console."
     },
     {
-      "game_name": "Gintama Yorozuya Tuve",
-      "game_region": "JPN",
-      "base_name": "Rhythm Heaven Fever",
-      "base_region": "USA",
-      "status": 2,
-      "gamepad": 0,
-      "notes": "Also works on EUR/USA region console."
-    },
-    {
       "game_name": "Grand Slam Tennis",
       "game_region": "USA",
       "base_name": "Rhythm Heaven Fever",
@@ -1511,24 +1520,6 @@
       "status": 2,
       "gamepad": 2,
       "notes": "Same as above notes. Also works on EUR region console."
-    },
-    {
-      "game_name": "Guitar Hero 5",
-      "game_region": "USA",
-      "base_name": "Rhythm Heaven Fever",
-      "base_region": "USA",
-      "status": 0,
-      "gamepad": 0,
-      "notes": "Does not launch, freezes on a black screen forcing the console to be unplugged to restart. May or may not be worth nothing that I have tested Guitar Hero 3 with this preset and had no issues with that entry."
-    },
-    {
-      "game_name": "Guitar Hero 5",
-      "game_region": "EUR",
-      "base_name": "Rhythm Heaven Fever",
-      "base_region": "USA",
-      "status": 0,
-      "gamepad": 0,
-      "notes": "Does not launch, freezes on a black screen forcing the console to be unplugged to restart. May or may not be worth nothing that I have tested Guitar Hero 3 with this preset and had no issues with that entry."
     },
     {
       "game_name": "Guitar Hero - Aerosmith",
@@ -1574,6 +1565,24 @@
       "status": 2,
       "gamepad": 0,
       "notes": "Also works on EUR region console."
+    },
+    {
+      "game_name": "Guitar Hero 5",
+      "game_region": "USA",
+      "base_name": "Rhythm Heaven Fever",
+      "base_region": "USA",
+      "status": 0,
+      "gamepad": 0,
+      "notes": "Does not launch, freezes on a black screen forcing the console to be unplugged to restart. May or may not be worth nothing that I have tested Guitar Hero 3 with this preset and had no issues with that entry."
+    },
+    {
+      "game_name": "Guitar Hero 5",
+      "game_region": "EUR",
+      "base_name": "Rhythm Heaven Fever",
+      "base_region": "USA",
+      "status": 0,
+      "gamepad": 0,
+      "notes": "Does not launch, freezes on a black screen forcing the console to be unplugged to restart. May or may not be worth nothing that I have tested Guitar Hero 3 with this preset and had no issues with that entry."
     },
     {
       "game_name": "Guitar Hero III - Legends of Rock",
@@ -1792,15 +1801,6 @@
       "notes": "Game doesn't work on EUR region console."
     },
     {
-      "game_name": "Just Dance - Best Of",
-      "game_region": "EUR",
-      "base_name": "Rhythm Heaven Fever",
-      "base_region": "USA",
-      "status": 2,
-      "gamepad": 0,
-      "notes": "Game may not work on USA region console, try patching ISO with RegionFrii and PAL to NTSC Video Mode patch."
-    },
-    {
       "game_name": "Just Dance",
       "game_region": "EUR",
       "base_name": "Rhythm Heaven Fever",
@@ -1817,6 +1817,15 @@
       "status": 0,
       "gamepad": 0,
       "notes": "Issues"
+    },
+    {
+      "game_name": "Just Dance - Best Of",
+      "game_region": "EUR",
+      "base_name": "Rhythm Heaven Fever",
+      "base_region": "USA",
+      "status": 2,
+      "gamepad": 0,
+      "notes": "Game may not work on USA region console, try patching ISO with RegionFrii and PAL to NTSC Video Mode patch."
     },
     {
       "game_name": "Just Dance 2",
@@ -2548,15 +2557,6 @@
       "notes": "Use \"Force Classic Controller\" setting in \"Use GamePad as\" options, tested and working. Added Note: Must change controller type to Classic Controller in the Game Options menu prior to selecting a game to play, then CC requires resync by pressing HOME button on GamePad twice. Also works on EUR/USA region console, there has been reports that the system will freeze when trying to play Metal Slug 6."
     },
     {
-      "game_name": "Metroid: Other M",
-      "game_region": "USA",
-      "base_name": "Rhythm Heaven Fever",
-      "base_region": "USA",
-      "status": 2,
-      "gamepad": 0,
-      "notes": "Also works on EUR region console."
-    },
-    {
       "game_name": "Metroid Prime 3: Corruption",
       "game_region": "USA",
       "base_name": "Rhythm Heaven Fever",
@@ -2582,6 +2582,15 @@
       "status": 2,
       "gamepad": 0,
       "notes": "None"
+    },
+    {
+      "game_name": "Metroid: Other M",
+      "game_region": "USA",
+      "base_name": "Rhythm Heaven Fever",
+      "base_region": "USA",
+      "status": 2,
+      "gamepad": 0,
+      "notes": "Also works on EUR region console."
     },
     {
       "game_name": "Milestone Shooting Collection 2",
@@ -2791,15 +2800,6 @@
       "notes": "Change controller type to Classic Controller in the options menu. Also works on EUR region console."
     },
     {
-      "game_name": "Need for Speed: Undercover",
-      "game_region": "USA",
-      "base_name": "Super Mario Galaxy 2",
-      "base_region": "EUR",
-      "status": 2,
-      "gamepad": 2,
-      "notes": "None"
-    },
-    {
       "game_name": "Need for Speed: Prostreet",
       "game_region": "USA",
       "base_name": "Rhythm Heaven Fever",
@@ -2809,6 +2809,15 @@
       "notes": "Disable trim or else the game doesn’t work"
     },
     {
+      "game_name": "Need for Speed: Undercover",
+      "game_region": "USA",
+      "base_name": "Super Mario Galaxy 2",
+      "base_region": "EUR",
+      "status": 2,
+      "gamepad": 2,
+      "notes": "None"
+    },
+    {
       "game_name": "NERF N-Strike Double Blast Bundle",
       "game_region": "USA",
       "base_name": "Rhythm Heaven Fever",
@@ -2816,6 +2825,24 @@
       "status": 2,
       "gamepad": 0,
       "notes": "Also works on EUR region console."
+    },
+    {
+      "game_name": "New Super Mario Bros. 3+ (Hack)",
+      "game_region": "USA",
+      "base_name": "Donkey Kong Country Returns",
+      "base_region": "USA",
+      "status": 2,
+      "gamepad": 0,
+      "notes": "No CCP support"
+    },
+    {
+      "game_name": "New Super Mario Bros. 3+ (Hack)",
+      "game_region": "USA",
+      "base_name": "Rhythm Heaven Fever",
+      "base_region": "USA",
+      "status": 2,
+      "gamepad": 0,
+      "notes": "No CCP support"
     },
     {
       "game_name": "New Super Mario Bros. Wii",
@@ -2843,24 +2870,6 @@
       "status": 2,
       "gamepad": 0,
       "notes": "None"
-    },
-    {
-      "game_name": "New Super Mario Bros. 3+ (Hack)",
-      "game_region": "USA",
-      "base_name": "Donkey Kong Country Returns",
-      "base_region": "USA",
-      "status": 2,
-      "gamepad": 0,
-      "notes": "No CCP support"
-    },
-    {
-      "game_name": "New Super Mario Bros. 3+ (Hack)",
-      "game_region": "USA",
-      "base_name": "Rhythm Heaven Fever",
-      "base_region": "USA",
-      "status": 2,
-      "gamepad": 0,
-      "notes": "No CCP support"
     },
     {
       "game_name": "Newer Super Luigi Wii: Dark Moon Reverse (Version 0.9)",
@@ -3007,24 +3016,6 @@
       "notes": "Also works on EUR region console."
     },
     {
-      "game_name": "OneChanbara - Bikini Zombie Slayers",
-      "game_region": "EUR",
-      "base_name": "Rhythm Heaven Fever",
-      "base_region": "USA",
-      "status": 2,
-      "gamepad": 0,
-      "notes": "Game may not work on USA region console, try patching ISO with RegionFrii and PAL to NTSC Video Mode patch or use USA version instead."
-    },
-    {
-      "game_name": "OneChanbara - Bikini Zombie Slayers",
-      "game_region": "USA",
-      "base_name": "Rhythm Heaven Fever",
-      "base_region": "USA",
-      "status": 2,
-      "gamepad": 0,
-      "notes": "Also works on EUR region console."
-    },
-    {
       "game_name": "One Piece - Unlimited Adventure",
       "game_region": "USA",
       "base_name": "Rhythm Heaven Fever",
@@ -3052,7 +3043,16 @@
       "notes": "Also works on USA region console."
     },
     {
-      "game_name": "Order Up!",
+      "game_name": "OneChanbara - Bikini Zombie Slayers",
+      "game_region": "EUR",
+      "base_name": "Rhythm Heaven Fever",
+      "base_region": "USA",
+      "status": 2,
+      "gamepad": 0,
+      "notes": "Game may not work on USA region console, try patching ISO with RegionFrii and PAL to NTSC Video Mode patch or use USA version instead."
+    },
+    {
+      "game_name": "OneChanbara - Bikini Zombie Slayers",
       "game_region": "USA",
       "base_name": "Rhythm Heaven Fever",
       "base_region": "USA",
@@ -3068,6 +3068,15 @@
       "status": 2,
       "gamepad": 2,
       "notes": "Use \"Force Classic Controller\" setting in \"Use GamePad as\" options. Also works on EUR region console."
+    },
+    {
+      "game_name": "Order Up!",
+      "game_region": "USA",
+      "base_name": "Rhythm Heaven Fever",
+      "base_region": "USA",
+      "status": 2,
+      "gamepad": 0,
+      "notes": "Also works on EUR region console."
     },
     {
       "game_name": "Ougon no Kizuna",
@@ -3178,7 +3187,7 @@
       "notes": "Also works on EUR region console."
     },
     {
-      "game_name": "Pinball Hall of Fame - The Williams Collection",
+      "game_name": "Pinball Hall of Fame - The Gottlieb Collection",
       "game_region": "USA",
       "base_name": "Rhythm Heaven Fever",
       "base_region": "USA",
@@ -3187,7 +3196,7 @@
       "notes": "Disable trim or else the game doesn't work"
     },
     {
-      "game_name": "Pinball Hall of Fame - The Williams Collection",
+      "game_name": "Pinball Hall of Fame - The Gottlieb Collection",
       "game_region": "USA",
       "base_name": "Rhythm Heaven Fever",
       "base_region": "USA",
@@ -3196,7 +3205,7 @@
       "notes": "None"
     },
     {
-      "game_name": "Pinball Hall of Fame - The Gottlieb Collection",
+      "game_name": "Pinball Hall of Fame - The Williams Collection",
       "game_region": "USA",
       "base_name": "Rhythm Heaven Fever",
       "base_region": "USA",
@@ -3205,7 +3214,7 @@
       "notes": "Disable trim or else the game doesn't work"
     },
     {
-      "game_name": "Pinball Hall of Fame - The Gottlieb Collection",
+      "game_name": "Pinball Hall of Fame - The Williams Collection",
       "game_region": "USA",
       "base_name": "Rhythm Heaven Fever",
       "base_region": "USA",
@@ -3430,24 +3439,6 @@
       "notes": "Also works on EUR region console."
     },
     {
-      "game_name": "Resident Evil: The Darkside Chronicles",
-      "game_region": "USA",
-      "base_name": "Xenoblade Chronicles",
-      "base_region": "USA",
-      "status": 2,
-      "gamepad": 0,
-      "notes": "Also works on EUR region console."
-    },
-    {
-      "game_name": "Resident Evil: The Umbrella Chronicles",
-      "game_region": "USA",
-      "base_name": "Rhythm Heaven Fever",
-      "base_region": "USA",
-      "status": 2,
-      "gamepad": 0,
-      "notes": "Also works on EUR region console."
-    },
-    {
       "game_name": "Resident Evil 4",
       "game_region": "EUR",
       "base_name": "Rhythm Heaven Fever",
@@ -3500,6 +3491,24 @@
       "status": 2,
       "gamepad": 2,
       "notes": "Same notes as EUR version above. Game doesn't work on EUR region console, use EUR version instead."
+    },
+    {
+      "game_name": "Resident Evil: The Darkside Chronicles",
+      "game_region": "USA",
+      "base_name": "Xenoblade Chronicles",
+      "base_region": "USA",
+      "status": 2,
+      "gamepad": 0,
+      "notes": "Also works on EUR region console."
+    },
+    {
+      "game_name": "Resident Evil: The Umbrella Chronicles",
+      "game_region": "USA",
+      "base_name": "Rhythm Heaven Fever",
+      "base_region": "USA",
+      "status": 2,
+      "gamepad": 0,
+      "notes": "Also works on EUR region console."
     },
     {
       "game_name": "Rock Band",
@@ -3619,15 +3628,6 @@
       "notes": "Also works on EUR region console."
     },
     {
-      "game_name": "Rune Factory Frontier",
-      "game_region": "USA",
-      "base_name": "Rhythm Heaven Fever/Xenoblade Chronicles",
-      "base_region": "USA",
-      "status": 2,
-      "gamepad": 2,
-      "notes": "1:1 dump, stock fw.img. Also works with WBFS file. Also works on EUR region console."
-    },
-    {
       "game_name": "Rune Factory - Tides of Destiny",
       "game_region": "USA",
       "base_name": "Rhythm Heaven Fever",
@@ -3635,6 +3635,15 @@
       "status": 2,
       "gamepad": 2,
       "notes": "GamePad works if you patch the main.dol file extracted from the ISO using the Classic Controller support GCT code HERE. You can also patch the Undubbed version however on EUR region console, it will not detect the GamePad, simply hold down the power button on the GamePad to turn it off, wait a few seconds and turn it back on. The game should now detect the GamePad, only issue with the patched CC support for the Undubbed version is that you will not be able to exit back to the WiiU menu, use the GamePad's power button to turn off the WiiU console. Also works on EUR region console."
+    },
+    {
+      "game_name": "Rune Factory Frontier",
+      "game_region": "USA",
+      "base_name": "Rhythm Heaven Fever/Xenoblade Chronicles",
+      "base_region": "USA",
+      "status": 2,
+      "gamepad": 2,
+      "notes": "1:1 dump, stock fw.img. Also works with WBFS file. Also works on EUR region console."
     },
     {
       "game_name": "Rygar - The Battle of Argus",
@@ -3718,7 +3727,7 @@
       "notes": "Game doesn't work on EUR region console, use EUR version instead."
     },
     {
-      "game_name": "Samurai Warriors 3",
+      "game_name": "Samurai Warriors - Katana",
       "game_region": "EUR",
       "base_name": "Rhythm Heaven Fever",
       "base_region": "USA",
@@ -3727,7 +3736,7 @@
       "notes": "Game may not work on USA region console, try patching ISO with RegionFrii and PAL to NTSC Video Mode patch or use USA version instead."
     },
     {
-      "game_name": "Samurai Warriors 3",
+      "game_name": "Samurai Warriors - Katana",
       "game_region": "USA",
       "base_name": "Rhythm Heaven Fever",
       "base_region": "USA",
@@ -3736,7 +3745,7 @@
       "notes": "Also works on EUR region console."
     },
     {
-      "game_name": "Samurai Warriors - Katana",
+      "game_name": "Samurai Warriors 3",
       "game_region": "EUR",
       "base_name": "Rhythm Heaven Fever",
       "base_region": "USA",
@@ -3745,7 +3754,7 @@
       "notes": "Game may not work on USA region console, try patching ISO with RegionFrii and PAL to NTSC Video Mode patch or use USA version instead."
     },
     {
-      "game_name": "Samurai Warriors - Katana",
+      "game_name": "Samurai Warriors 3",
       "game_region": "USA",
       "base_name": "Rhythm Heaven Fever",
       "base_region": "USA",
@@ -3772,24 +3781,6 @@
       "notes": "Game doesn't work on EUR region console, use EUR version instead."
     },
     {
-      "game_name": "SD Gundam Gashapon Wars",
-      "game_region": "JPN",
-      "base_name": "Rhythm Heaven Fever",
-      "base_region": "USA",
-      "status": 2,
-      "gamepad": 2,
-      "notes": "Game works on USA region console, game also works on EUR region console by patching ISO with RegionFrii and NTSC-J to PAL video mode patch."
-    },
-    {
-      "game_name": "SD Gundam Gashapon Wars",
-      "game_region": "JPN",
-      "base_name": "Rhythm Heaven Fever",
-      "base_region": "USA",
-      "status": 2,
-      "gamepad": 0,
-      "notes": "Game works on USA region console, game also works on EUR region console by patching ISO with RegionFrii and NTSC-J to PAL video mode patch."
-    },
-    {
       "game_name": "Scooby-Doo! and the Spooky Swamp",
       "game_region": "USA",
       "base_name": "Rhythm Heaven Fever",
@@ -3808,22 +3799,22 @@
       "notes": "Game requires CC resync, click Here for instructions. Also works on EUR region console."
     },
     {
-      "game_name": "Sengoku Basara: Samurai Heroes",
-      "game_region": "EUR",
+      "game_name": "SD Gundam Gashapon Wars",
+      "game_region": "JPN",
       "base_name": "Rhythm Heaven Fever",
       "base_region": "USA",
       "status": 2,
       "gamepad": 2,
-      "notes": "In game Classic Controller must be resynced by pressing the Home button on the GamePad and pressing the Home button again to exit back to the game. Game may not work on USA region console, try patching ISO with RegionFrii and PAL to NTSC Video Mode patch or use USA version instead."
+      "notes": "Game works on USA region console, game also works on EUR region console by patching ISO with RegionFrii and NTSC-J to PAL video mode patch."
     },
     {
-      "game_name": "Sengoku Basara: Samurai Heroes",
-      "game_region": "USA",
-      "base_name": "Xenoblade Chronicles",
+      "game_name": "SD Gundam Gashapon Wars",
+      "game_region": "JPN",
+      "base_name": "Rhythm Heaven Fever",
       "base_region": "USA",
       "status": 2,
-      "gamepad": 2,
-      "notes": "Same notes as EUR version above. Also works on EUR region console."
+      "gamepad": 0,
+      "notes": "Game works on USA region console, game also works on EUR region console by patching ISO with RegionFrii and NTSC-J to PAL video mode patch."
     },
     {
       "game_name": "Sengoku Basara 2 Heroes",
@@ -3842,6 +3833,24 @@
       "status": 2,
       "gamepad": 0,
       "notes": "Despite game supports Classic Controller, game asks for nunchuck to be connected at the title screen after the intro. Wii Remote Support only, works on USA region console only, EUR/PAL region console boots to black screen. Game will work on EUR/PAL console if video mode is patched with Wii VMC 2.2"
+    },
+    {
+      "game_name": "Sengoku Basara: Samurai Heroes",
+      "game_region": "EUR",
+      "base_name": "Rhythm Heaven Fever",
+      "base_region": "USA",
+      "status": 2,
+      "gamepad": 2,
+      "notes": "In game Classic Controller must be resynced by pressing the Home button on the GamePad and pressing the Home button again to exit back to the game. Game may not work on USA region console, try patching ISO with RegionFrii and PAL to NTSC Video Mode patch or use USA version instead."
+    },
+    {
+      "game_name": "Sengoku Basara: Samurai Heroes",
+      "game_region": "USA",
+      "base_name": "Xenoblade Chronicles",
+      "base_region": "USA",
+      "status": 2,
+      "gamepad": 2,
+      "notes": "Same notes as EUR version above. Also works on EUR region console."
     },
     {
       "game_name": "Shiren The Wanderer",
@@ -4096,24 +4105,6 @@
       "notes": "Also works on EUR region console."
     },
     {
-      "game_name": "Star Wars: The Clone Wars - Lightsaber Duels",
-      "game_region": "USA",
-      "base_name": "Rhythm Heaven Fever",
-      "base_region": "USA",
-      "status": 2,
-      "gamepad": 0,
-      "notes": "Disable trim or else the game doesn't work"
-    },
-    {
-      "game_name": "Star Wars: The Clone Wars - Republic Heroes",
-      "game_region": "USA",
-      "base_name": "Rhythm Heaven Fever",
-      "base_region": "USA",
-      "status": 2,
-      "gamepad": 0,
-      "notes": "Disable trim or else the game doesn't work"
-    },
-    {
       "game_name": "Star Wars - The Force Unleashed",
       "game_region": "USA",
       "base_name": "Rhythm Heaven Fever",
@@ -4130,6 +4121,24 @@
       "status": 2,
       "gamepad": 0,
       "notes": "Also works on EUR region console."
+    },
+    {
+      "game_name": "Star Wars: The Clone Wars - Lightsaber Duels",
+      "game_region": "USA",
+      "base_name": "Rhythm Heaven Fever",
+      "base_region": "USA",
+      "status": 2,
+      "gamepad": 0,
+      "notes": "Disable trim or else the game doesn't work"
+    },
+    {
+      "game_name": "Star Wars: The Clone Wars - Republic Heroes",
+      "game_region": "USA",
+      "base_name": "Rhythm Heaven Fever",
+      "base_region": "USA",
+      "status": 2,
+      "gamepad": 0,
+      "notes": "Disable trim or else the game doesn't work"
     },
     {
       "game_name": "Super Mario All-Stars",
@@ -4150,6 +4159,15 @@
       "notes": "Have to reboot console to get back to home menu"
     },
     {
+      "game_name": "Super Mario Galaxy 2",
+      "game_region": "USA",
+      "base_name": "Rhythm Heaven Fever",
+      "base_region": "USA",
+      "status": 2,
+      "gamepad": 0,
+      "notes": "None"
+    },
+    {
       "game_name": "Super Monkey Ball - Banana Blitz",
       "game_region": "USA",
       "base_name": "Rhythm Heaven Fever",
@@ -4166,15 +4184,6 @@
       "status": 2,
       "gamepad": 0,
       "notes": "Also works on EUR region console."
-    },
-    {
-      "game_name": "Super Mario Galaxy 2",
-      "game_region": "USA",
-      "base_name": "Rhythm Heaven Fever",
-      "base_region": "USA",
-      "status": 2,
-      "gamepad": 0,
-      "notes": "None"
     },
     {
       "game_name": "Super Paper Mario",
@@ -4249,25 +4258,16 @@
       "notes": "Also known as Super Swing Golf - EU. Game doesn't work on EUR region console, use EUR version instead."
     },
     {
-      "game_name": "Tak and the Guardians of Gross",
-      "game_region": "EUR",
-      "base_name": "Rhythm Heaven Fever",
-      "base_region": "USA",
-      "status": 2,
-      "gamepad": 0,
-      "notes": "Game may not work on USA region console, try patching ISO with RegionFrii and PAL to NTSC Video Mode patch or use USA version instead."
-    },
-    {
-      "game_name": "Tak and the Guardians of Gross",
-      "game_region": "USA",
-      "base_name": "Rhythm Heaven Fever",
-      "base_region": "USA",
-      "status": 2,
-      "gamepad": 0,
-      "notes": "Game doesn't work on EUR region console, use EUR version instead."
-    },
-    {
       "game_name": "Taiko no Tatsujin Wii",
+      "game_region": "JPN",
+      "base_name": "Rhythm Heaven Fever",
+      "base_region": "USA",
+      "status": 2,
+      "gamepad": 2,
+      "notes": "Game may require CC resync, click Here for instructions. Also works on EUR/USA region console."
+    },
+    {
+      "game_name": "Taiko no Tatsujin Wii - Chou Goukaban",
       "game_region": "JPN",
       "base_name": "Rhythm Heaven Fever",
       "base_region": "USA",
@@ -4285,15 +4285,6 @@
       "notes": "Game may require CC resync, click Here for instructions. Also works on EUR/USA region console."
     },
     {
-      "game_name": "Taiko no Tatsujin Wii - Minna de Party 3 Daime!",
-      "game_region": "JPN",
-      "base_name": "Rhythm Heaven Fever",
-      "base_region": "USA",
-      "status": 2,
-      "gamepad": 2,
-      "notes": "Game may require CC resync, click Here for instructions. Also works on EUR/USA region console."
-    },
-    {
       "game_name": "Taiko no Tatsujin Wii - Kettei-Ban",
       "game_region": "JPN",
       "base_name": "Rhythm Heaven Fever",
@@ -4303,13 +4294,31 @@
       "notes": "Game may require CC resync, click Here for instructions. Also works on EUR/USA region console."
     },
     {
-      "game_name": "Taiko no Tatsujin Wii - Chou Goukaban",
+      "game_name": "Taiko no Tatsujin Wii - Minna de Party 3 Daime!",
       "game_region": "JPN",
       "base_name": "Rhythm Heaven Fever",
       "base_region": "USA",
       "status": 2,
       "gamepad": 2,
       "notes": "Game may require CC resync, click Here for instructions. Also works on EUR/USA region console."
+    },
+    {
+      "game_name": "Tak and the Guardians of Gross",
+      "game_region": "EUR",
+      "base_name": "Rhythm Heaven Fever",
+      "base_region": "USA",
+      "status": 2,
+      "gamepad": 0,
+      "notes": "Game may not work on USA region console, try patching ISO with RegionFrii and PAL to NTSC Video Mode patch or use USA version instead."
+    },
+    {
+      "game_name": "Tak and the Guardians of Gross",
+      "game_region": "USA",
+      "base_name": "Rhythm Heaven Fever",
+      "base_region": "USA",
+      "status": 2,
+      "gamepad": 0,
+      "notes": "Game doesn't work on EUR region console, use EUR version instead."
     },
     {
       "game_name": "Tales of Symphonia: Dawn of the New World",
@@ -4411,6 +4420,15 @@
       "notes": "Also works on EUR region console."
     },
     {
+      "game_name": "Tenchu - Shadow Assassins",
+      "game_region": "USA",
+      "base_name": "Rhythm Heaven Fever",
+      "base_region": "USA",
+      "status": 2,
+      "gamepad": 0,
+      "notes": "Also works on EUR region console."
+    },
+    {
       "game_name": "Tenchu 4",
       "game_region": "JPN",
       "base_name": "Xenoblade Chronicles",
@@ -4420,13 +4438,13 @@
       "notes": "WBFS to full ISO, game is patched with english subtitles, use patched fw.img, stock fw.img gives black screen. Note: USA/PAL version of Tenchu 4 also called Tenchu Shadow Assassins didn't have progresive scan option as the japanese one."
     },
     {
-      "game_name": "Tenchu - Shadow Assassins",
-      "game_region": "USA",
-      "base_name": "Rhythm Heaven Fever",
-      "base_region": "USA",
-      "status": 2,
-      "gamepad": 0,
-      "notes": "Also works on EUR region console."
+      "game_name": "Test Submission ",
+      "game_region": "ANY",
+      "base_name": "Rhytmn Heaven Fever",
+      "base_region": "ANY",
+      "gamepad_support": 1,
+      "status": 1,
+      "notes": "Ignore this entry. This is a Submission Test using the Bot."
     },
     {
       "game_name": "Tetris Party Deluxe",
@@ -4492,15 +4510,6 @@
       "notes": "Also works on EUR region console."
     },
     {
-      "game_name": "The House of The Dead 2 & 3 Return",
-      "game_region": "USA",
-      "base_name": "Rhythm Heaven Fever",
-      "base_region": "USA",
-      "status": 2,
-      "gamepad": 0,
-      "notes": "Also works on EUR region console."
-    },
-    {
       "game_name": "The House of The Dead - Overkill",
       "game_region": "EUR",
       "base_name": "Rhythm Heaven Fever",
@@ -4517,6 +4526,15 @@
       "status": 2,
       "gamepad": 0,
       "notes": "Game doesn't work on EUR region console, use EUR version instead."
+    },
+    {
+      "game_name": "The House of The Dead 2 & 3 Return",
+      "game_region": "USA",
+      "base_name": "Rhythm Heaven Fever",
+      "base_region": "USA",
+      "status": 2,
+      "gamepad": 0,
+      "notes": "Also works on EUR region console."
     },
     {
       "game_name": "The King of Fighters Collection - The Orochi Saga",
@@ -4573,15 +4591,6 @@
       "notes": "Game may not work on USA region console, try patching ISO with RegionFrii and PAL to NTSC Video Mode patch or use USA version instead."
     },
     {
-      "game_name": "A Boy and His Blob",
-      "game_region": "USA",
-      "base_name": "Rhythm Heaven Fever",
-      "base_region": "USA",
-      "status": 2,
-      "gamepad": 0,
-      "notes": "Game doesn't work on EUR region console, use EUR version instead."
-    },
-    {
       "game_name": "The Munchables",
       "game_region": "EUR",
       "base_name": "Rhythm Heaven Fever",
@@ -4598,6 +4607,24 @@
       "status": 2,
       "gamepad": 2,
       "notes": "Also works on EUR region console."
+    },
+    {
+      "game_name": "The Simpsons Game",
+      "game_region": "EUR",
+      "base_name": "Rhythm Heaven Fever",
+      "base_region": "USA",
+      "status": 2,
+      "gamepad": 0,
+      "notes": "Game may not work on USA region console, try patching ISO with RegionFrii and PAL to NTSC Video Mode patch or use USA version instead."
+    },
+    {
+      "game_name": "The Simpsons Game",
+      "game_region": "USA",
+      "base_name": "Rhythm Heaven Fever",
+      "base_region": "USA",
+      "status": 2,
+      "gamepad": 0,
+      "notes": "Game doesn't work on EUR region console, use EUR version instead."
     },
     {
       "game_name": "The Sims 2 - Castaway",
@@ -4627,24 +4654,6 @@
       "notes": "Game may not work on USA region console, try patching ISO with RegionFrii and PAL to NTSC Video Mode patch or use USA version instead."
     },
     {
-      "game_name": "The Simpsons Game",
-      "game_region": "EUR",
-      "base_name": "Rhythm Heaven Fever",
-      "base_region": "USA",
-      "status": 2,
-      "gamepad": 0,
-      "notes": "Game may not work on USA region console, try patching ISO with RegionFrii and PAL to NTSC Video Mode patch or use USA version instead."
-    },
-    {
-      "game_name": "The Simpsons Game",
-      "game_region": "USA",
-      "base_name": "Rhythm Heaven Fever",
-      "base_region": "USA",
-      "status": 2,
-      "gamepad": 0,
-      "notes": "Game doesn't work on EUR region console, use EUR version instead."
-    },
-    {
       "game_name": "The Sky Crawlers: Innocent Aces",
       "game_region": "USA",
       "base_name": "Rhythm Heaven Fever",
@@ -4655,15 +4664,6 @@
     },
     {
       "game_name": "Thor - God of Thunder",
-      "game_region": "USA",
-      "base_name": "Rhythm Heaven Fever",
-      "base_region": "USA",
-      "status": 2,
-      "gamepad": 0,
-      "notes": "Also works on EUR region console."
-    },
-    {
-      "game_name": "Tomb Raider - Anniversary",
       "game_region": "USA",
       "base_name": "Rhythm Heaven Fever",
       "base_region": "USA",
@@ -4691,6 +4691,15 @@
     },
     {
       "game_name": "Tiger Woods PGA Tour 12 - The Masters",
+      "game_region": "USA",
+      "base_name": "Rhythm Heaven Fever",
+      "base_region": "USA",
+      "status": 2,
+      "gamepad": 0,
+      "notes": "Also works on EUR region console."
+    },
+    {
+      "game_name": "Tomb Raider - Anniversary",
       "game_region": "USA",
       "base_name": "Rhythm Heaven Fever",
       "base_region": "USA",
@@ -4861,24 +4870,6 @@
       "notes": "Game doesn't work on EUR region console, use EUR version instead."
     },
     {
-      "game_name": "Wii Party",
-      "game_region": "EUR",
-      "base_name": "Rhythm Heaven Fever",
-      "base_region": "USA",
-      "status": 2,
-      "gamepad": 0,
-      "notes": "Game may not work on USA region console, try patching ISO with RegionFrii and PAL to NTSC Video Mode patch or use USA version instead."
-    },
-    {
-      "game_name": "Wii Party",
-      "game_region": "USA",
-      "base_name": "Rhythm Heaven Fever",
-      "base_region": "USA",
-      "status": 2,
-      "gamepad": 0,
-      "notes": "Game doesn't work on EUR region console, use EUR version instead."
-    },
-    {
       "game_name": "Wii Music",
       "game_region": "EUR",
       "base_name": "Rhythm Heaven Fever",
@@ -4889,6 +4880,24 @@
     },
     {
       "game_name": "Wii Music",
+      "game_region": "USA",
+      "base_name": "Rhythm Heaven Fever",
+      "base_region": "USA",
+      "status": 2,
+      "gamepad": 0,
+      "notes": "Game doesn't work on EUR region console, use EUR version instead."
+    },
+    {
+      "game_name": "Wii Party",
+      "game_region": "EUR",
+      "base_name": "Rhythm Heaven Fever",
+      "base_region": "USA",
+      "status": 2,
+      "gamepad": 0,
+      "notes": "Game may not work on USA region console, try patching ISO with RegionFrii and PAL to NTSC Video Mode patch or use USA version instead."
+    },
+    {
+      "game_name": "Wii Party",
       "game_region": "USA",
       "base_name": "Rhythm Heaven Fever",
       "base_region": "USA",
@@ -4942,15 +4951,6 @@
       "notes": "Game does not appear to load. Console displays a black error screen and prompts the user to reset the system."
     },
     {
-      "game_name": "Wii Play: Motion",
-      "game_region": "USA",
-      "base_name": "Rhythm Heaven Fever",
-      "base_region": "USA",
-      "status": 2,
-      "gamepad": 0,
-      "notes": "Does NOT work with gamepad! Says there is no motion plus accessory attached to remote 1."
-    },
-    {
       "game_name": "Wii Play Motion",
       "game_region": "USA",
       "base_name": "Rhythm Heaven Fever",
@@ -4960,25 +4960,16 @@
       "notes": "Have to disable trim, else it wont work."
     },
     {
-      "game_name": "Wii Sports",
-      "game_region": "EUR",
-      "base_name": "Rhythm Heaven Fever",
-      "base_region": "USA",
-      "status": 2,
-      "gamepad": 0,
-      "notes": "Game may not work on USA region console, try patching ISO with RegionFrii and PAL to NTSC Video Mode patch or use USA version instead."
-    },
-    {
-      "game_name": "Wii Sports",
+      "game_name": "Wii Play: Motion",
       "game_region": "USA",
       "base_name": "Rhythm Heaven Fever",
       "base_region": "USA",
       "status": 2,
       "gamepad": 0,
-      "notes": "Game doesn't work on EUR region console, use EUR version instead."
+      "notes": "Does NOT work with gamepad! Says there is no motion plus accessory attached to remote 1."
     },
     {
-      "game_name": "Wii Sports Resort",
+      "game_name": "Wii Sports",
       "game_region": "EUR",
       "base_name": "Rhythm Heaven Fever",
       "base_region": "USA",
@@ -4987,7 +4978,7 @@
       "notes": "Game may not work on USA region console, try patching ISO with RegionFrii and PAL to NTSC Video Mode patch or use USA version instead."
     },
     {
-      "game_name": "Wii Sports Resort",
+      "game_name": "Wii Sports",
       "game_region": "USA",
       "base_name": "Rhythm Heaven Fever",
       "base_region": "USA",
@@ -5021,6 +5012,24 @@
       "status": 2,
       "gamepad": 0,
       "notes": "None"
+    },
+    {
+      "game_name": "Wii Sports Resort",
+      "game_region": "EUR",
+      "base_name": "Rhythm Heaven Fever",
+      "base_region": "USA",
+      "status": 2,
+      "gamepad": 0,
+      "notes": "Game may not work on USA region console, try patching ISO with RegionFrii and PAL to NTSC Video Mode patch or use USA version instead."
+    },
+    {
+      "game_name": "Wii Sports Resort",
+      "game_region": "USA",
+      "base_name": "Rhythm Heaven Fever",
+      "base_region": "USA",
+      "status": 2,
+      "gamepad": 0,
+      "notes": "Game doesn't work on EUR region console, use EUR version instead."
     },
     {
       "game_name": "Wild West Shootout",
