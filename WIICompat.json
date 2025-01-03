@@ -4177,6 +4177,15 @@
       "notes": "Have to reboot console to get back to home menu"
     },
     {
+      "game_name": "Super Mario Galaxy ",
+      "game_region": "USA",
+      "base_name": "Rhythm Heaven Fever",
+      "base_region": "USA",
+      "status": 2,
+      "gamepad": 2,
+      "notes": "Needs Classic Controller Patch for Gamepad to work, instructions over https://gbatemp.net/threads/play-super-mario-galaxy-using-the-wii-u-gamepad.641530/"
+    },
+    {
       "game_name": "Super Mario Galaxy 2",
       "game_region": "USA",
       "base_name": "Rhythm Heaven Fever",
