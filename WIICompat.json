@@ -2440,6 +2440,15 @@
       "notes": "None"
     },
     {
+      "game_name": "Mario Kart Wii + WiiLink WFC ",
+      "game_region": "USA",
+      "base_name": "Rhythm Heaven Fever",
+      "base_region": "USA",
+      "status": 2,
+      "gamepad": 2,
+      "notes": "main.dol patched to connect to WiiLink WFC. Instructions are here: https://gbatemp.net/threads/play-mario-kart-wii-online-with-your-wiiu-gamepad.662795/"
+    },
+    {
       "game_name": "Mario Kart Wii + Wiimmfi",
       "game_region": "EUR",
       "base_name": "Xenoblade Chronicles",
