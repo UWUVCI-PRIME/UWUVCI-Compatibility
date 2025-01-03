@@ -2353,14 +2353,6 @@
       "notes": "None"
     },
     {
-      "game_name": "VPS Test",
-      "game_region": "Any",
-      "base_name": "any",
-      "base_region": "any",
-      "status": 2,
-      "notes": "ignore"
-    },
-    {
       "game_name": "WarioWare D.I.Y.",
       "game_region": "USA",
       "base_name": "Kirby Squeak Squad",
