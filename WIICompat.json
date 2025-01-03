@@ -4447,6 +4447,14 @@
       "notes": "Ignore this entry. This is a Submission Test using the Bot."
     },
     {
+      "game_name": "Test Submission ISSUES ",
+      "game_region": "EUR",
+      "base_name": "ANY",
+      "base_region": "USA",
+      "status": 1,
+      "gamepad": 1,
+    },
+    {
       "game_name": "Test Submission Working ",
       "game_region": "ANY",
       "base_name": "any",
