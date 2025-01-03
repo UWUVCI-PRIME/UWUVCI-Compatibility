@@ -1425,6 +1425,14 @@
       "notes": "None"
     },
     {
+      "game_name": "New Super Mario Bros. U DS",
+      "game_region": "USA",
+      "base_name": "New Super Mario Bros. DS",
+      "base_region": "USA",
+      "status": 2,
+      "notes": "Mod created by Skylander Productions. Edit the \"configuration_cafe.json\" to increase the brightness."
+    },
+    {
       "game_name": "Newer Super Mario Bros DS",
       "game_region": "USA",
       "base_name": "Yoshi's Island DS",
