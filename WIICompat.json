@@ -2521,6 +2521,15 @@
       "notes": "Game doesn't support Classic Controller, but the game can be played with Sideways remote. Patch game with Horizontal Wii Remote Emulation for the GamePad. Only motion control used in the game is the FAKE OUT move for Dodgeball. There is no way to get back to the WiiU menu, so force shutdown is required. Also works on EUR region console."
     },
     {
+      "game_name": "Mario Sports Mix ",
+      "game_region": "USA",
+      "base_name": "Rhythm Heaven Fever",
+      "base_region": "USA",
+      "status": 2,
+      "gamepad": 2,
+      "notes": "Full gamepad support works if main.dol is patched with Classic Controller Support Code. Can be injected with horizontal remote, but you cant use some motion controlled moves. https://gbatemp.net/threads/new-classic-controller-hacks.659837/post-10517717"
+    },
+    {
       "game_name": "Mario Strikers Charged",
       "game_region": "USA",
       "base_name": "Rhythm Heaven Fever",
