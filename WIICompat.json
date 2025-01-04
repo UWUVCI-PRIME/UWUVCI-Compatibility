@@ -163,6 +163,15 @@
       "notes": "1:1 dump, clean fw.img. Works on EUR region console using patch video mode."
     },
     {
+      "game_name": "Artlist Collection: The Dog Island ",
+      "game_region": "USA",
+      "base_name": "Rhythm Heaven Fever",
+      "base_region": "USA",
+      "status": 2,
+      "gamepad": 2,
+      "notes": "No cover art"
+    },
+    {
       "game_name": "Avatar - The Last Airbender",
       "game_region": "USA",
       "base_name": "Rhythm Heaven Fever",
