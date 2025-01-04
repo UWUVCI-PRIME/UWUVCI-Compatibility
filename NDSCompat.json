@@ -825,6 +825,14 @@
       "notes": "None"
     },
     {
+      "game_name": "Github Integration Test",
+      "game_region": "any",
+      "base_name": "ignore",
+      "base_region": "any",
+      "status": 0,
+      "notes": "reject this PR"
+    },
+    {
       "game_name": "Golden Sun: Dark Dawn",
       "game_region": "EUR",
       "base_name": "Pokémon Mystery Dungeon: Explorers of the Sky",
