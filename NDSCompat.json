@@ -825,6 +825,14 @@
       "notes": "None"
     },
     {
+      "game_name": "Github Integration Test",
+      "game_region": "Any",
+      "base_name": "Brain Age",
+      "base_region": "Any",
+      "status": 1,
+      "notes": "Test for Discord, REJECT THIS PR"
+    },
+    {
       "game_name": "Golden Sun: Dark Dawn",
       "game_region": "EUR",
       "base_name": "Pokémon Mystery Dungeon: Explorers of the Sky",
