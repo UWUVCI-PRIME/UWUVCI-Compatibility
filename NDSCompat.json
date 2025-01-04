@@ -33,6 +33,14 @@
       "notes": "None"
     },
     {
+      "game_name": "a",
+      "game_region": "any",
+      "base_name": "a",
+      "base_region": "any",
+      "status": 0,
+      "notes": "ignore"
+    },
+    {
       "game_name": "A Witch's Tale",
       "game_region": "USA",
       "base_name": "New Super Mario Bros.",
