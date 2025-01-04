@@ -4249,6 +4249,15 @@
       "notes": "Requires a Classic Controller patch for Gamepad to work, Instructions over https://gbatemp.net/threads/play-super-mario-galaxy-2-using-the-wii-u-gamepad.611282/"
     },
     {
+      "game_name": "Super Mario Galaxy 2 ",
+      "game_region": "USA",
+      "base_name": "Rhythm Heaven Fever",
+      "base_region": "USA",
+      "status": 2,
+      "gamepad": 2,
+      "notes": "Gamepad works if your game backup is modified with the Classic Controller code, along with other needed patches. https://gbatemp.net/threads/play-super-mario-galaxy-2-using-the-wii-u-gamepad.611282/"
+    },
+    {
       "game_name": "Super Monkey Ball - Banana Blitz",
       "game_region": "USA",
       "base_name": "Rhythm Heaven Fever",
