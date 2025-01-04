@@ -3249,6 +3249,14 @@
       "notes": "Works perfectly fine with no gameplay or graphical issues until anything gets ko'd, in which case the game will freeze."
     },
     {
+      "game_name": "Super Smash Bros.",
+      "game_region": "USA",
+      "base_name": "F-Zero X",
+      "base_region": "USA",
+      "status": 2,
+      "notes": "Use the ini made by Nintendo from the Wii VC and switch the rom header to Japanese."
+    },
+    {
       "game_name": "Super Smash Bros. 19XX",
       "game_region": "USA",
       "base_name": "F-Zero X",
