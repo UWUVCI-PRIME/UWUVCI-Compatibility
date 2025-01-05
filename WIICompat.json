@@ -2584,6 +2584,15 @@
       "notes": "Use \"Force Classic Controller\" setting in \"Use GamePad as\" options. Controls are awkward because game is using vertical controls at the start, before the innings starts there is option to change control scheme to horizontal which disables all motion control and game plays fine. Game will boot to black screen on EUR/PAL console, NTSC to PAL video mode must be patched for it to work on EUR/PAL console."
     },
     {
+      "game_name": "Mario Super Sluggers ",
+      "game_region": "USA",
+      "base_name": "Rhythm Heaven Fever",
+      "base_region": "USA",
+      "status": 2,
+      "gamepad": 2,
+      "notes": "Despite the conpatibility guide telling you to use Force Classic Controller, that will NOT work. It receives one input then stops taking inputs. Must inject with HORIZONTAL Wii remote. Controls are awkward since it thinks you are using a vertical wii remote, but you can change the controls before the innings start."
+    },
+    {
       "game_name": "Martian Panic",
       "game_region": "USA",
       "base_name": "Rhythm Heaven Fever",
