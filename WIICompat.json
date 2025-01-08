@@ -127,6 +127,15 @@
       "notes": "There's A Classic Controller patch that make gamepad work, you have to patch the game main.dol by yourself. Get the patch from https://gbatemp.net/threads/new-classic-controller-hacks.659837/page-3#post-10507857"
     },
     {
+      "game_name": "Animal Crossing: City Folk Deluxe ",
+      "game_region": "EUR",
+      "base_name": "Super Paper Mario",
+      "base_region": "EUR",
+      "status": 2,
+      "gamepad": 2,
+      "notes": "Used RiivolutionIsoBuilder to patch the original ISO."
+    },
+    {
       "game_name": "Anno - Create a New World",
       "game_region": "EUR",
       "base_name": "Rhythm Heaven Fever",
