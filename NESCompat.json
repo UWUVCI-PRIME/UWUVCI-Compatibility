@@ -297,6 +297,14 @@
       "notes": "None"
     },
     {
+      "game_name": "Rugrats: Adventures in Gameland",
+      "game_region": "Any",
+      "base_name": "Metal Slader Glory",
+      "base_region": "JPN",
+      "status": 1,
+      "notes": "Music plays incorrectly, same issues as using EarthBound Beginnings/Mother as a base. Everything else is OK."
+    },
+    {
       "game_name": "Shanghai",
       "game_region": "JPN",
       "base_name": "Mother",
