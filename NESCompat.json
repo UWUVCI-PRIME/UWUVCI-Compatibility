@@ -129,6 +129,14 @@
       "notes": "None"
     },
     {
+      "game_name": "DuckTales",
+      "game_region": "USA",
+      "base_name": "Metroid",
+      "base_region": "USA",
+      "status": 2,
+      "notes": "None"
+    },
+    {
       "game_name": "Faxanadu",
       "game_region": "USA",
       "base_name": "Punch Out!!",
