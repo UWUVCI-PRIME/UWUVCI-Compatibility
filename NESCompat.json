@@ -393,6 +393,14 @@
       "notes": "User wrote some weird notes, so I'm unsure of what to mark it as. Works with minor issues, such as the ground being a slight pink (unlike how it should be), its hard to see on camera, and I found that going back into the game after playing for abit, the save point loaded, but the game was a black screen."
     },
     {
+      "game_name": "The Super Mario Bros. Super Show!",
+      "game_region": "USA",
+      "base_name": "EarthBound Beginnings/Mother",
+      "base_region": "USA",
+      "status": 0,
+      "notes": "ROM hack of Super Mario Bros. 2. Title screen is glitchy, freezes after pressing start. Can exit."
+    },
+    {
       "game_name": "Virus",
       "game_region": "",
       "base_name": "Dr Mario",
