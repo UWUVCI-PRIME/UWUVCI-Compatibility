@@ -1593,6 +1593,14 @@
       "notes": "Region unknown. White screen. Won't boot."
     },
     {
+      "game_name": "PictoChat",
+      "game_region": "Any",
+      "base_name": "New Super Mario Bros.",
+      "base_region": "USA",
+      "status": 0,
+      "notes": "White screen. Won't boot."
+    },
+    {
       "game_name": "Planet Puzzle LeagueB",
       "game_region": "USA",
       "base_name": "Dr. Kawashima's Brain Training: How Old Is Your Brain?",
