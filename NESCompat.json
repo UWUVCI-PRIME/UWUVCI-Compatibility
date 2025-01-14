@@ -129,6 +129,15 @@
       "notes": "None"
     },
     {
+
+      "game_name": "DuckTales",
+      "game_region": "USA",
+      "base_name": "Metroid",
+      "base_region": "USA",
+      "status": 2,
+      "notes": "None"
+    },
+    {
       "game_name": "Faxanadu",
       "game_region": "USA",
       "base_name": "Punch Out!!",
@@ -295,6 +304,14 @@
       "base_region": "USA",
       "status": 1,
       "notes": "Music plays incorrectly, same issues as using Metal Slader Glory as a base. Everything else is OK."
+    },
+    { 
+      "game_name": "Rugrats: Adventures in Gameland",
+      "game_region": "Any",
+      "base_name": "Metal Slader Glory",
+      "base_region": "JPN",
+      "status": 1,
+      "notes": "Music plays incorrectly, same issues as using EarthBound Beginnings/Mother as a base. Everything else is OK."
     },
     {
       "game_name": "Shanghai",
