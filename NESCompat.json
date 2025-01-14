@@ -290,6 +290,14 @@
       "notes": "Shows a USB storage error screen, no woarkaround for the moment. Patch version unknown."
     },
     {
+      "game_name": "Monopoly",
+      "game_region": "USA",
+      "base_name": "Punch-Out!! Featuring Mr. Dream US",
+      "base_region": "USA",
+      "status": 2,
+      "notes": "Pixels Perfect works"
+    },
+    {
       "game_name": "Puyo Puyo",
       "game_region": "JPN",
       "base_name": "Earthbound Beginnings",
