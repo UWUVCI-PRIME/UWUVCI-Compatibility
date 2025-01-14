@@ -129,6 +129,7 @@
       "notes": "None"
     },
     {
+
       "game_name": "DuckTales",
       "game_region": "USA",
       "base_name": "Metroid",
@@ -297,6 +298,14 @@
       "notes": "None"
     },
     {
+      "game_name": "Rugrats: Adventures in Gameland",
+      "game_region": "Any",
+      "base_name": "EarthBound Beginnings/Mother",
+      "base_region": "USA",
+      "status": 1,
+      "notes": "Music plays incorrectly, same issues as using Metal Slader Glory as a base. Everything else is OK."
+    },
+    { 
       "game_name": "Rugrats: Adventures in Gameland",
       "game_region": "Any",
       "base_name": "Metal Slader Glory",
