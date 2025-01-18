@@ -1783,6 +1783,15 @@
       "notes": "Also works on EUR region console."
     },
     {
+      "game_name": "Jett Rocket ",
+      "game_region": "USA",
+      "base_name": "Rhythm Heaven Fever",
+      "base_region": "USA",
+      "status": 2,
+      "gamepad": 2,
+      "notes": "WAD Must be patched with Classic Controller support code. WAD Builder is here: https://gbatemp.net/threads/new-classic-controller-hacks.659837/post-10542014"
+    },
+    {
       "game_name": "Jewel Master - Cradle of Rome",
       "game_region": "USA",
       "base_name": "Rhythm Heaven Fever",
