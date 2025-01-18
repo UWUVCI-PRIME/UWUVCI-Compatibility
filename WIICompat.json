@@ -3862,6 +3862,15 @@
       "notes": "Also works on EUR region console."
     },
     {
+      "game_name": "Samurai Warriors 3 ",
+      "game_region": "USA",
+      "base_name": "Xenoblade Chronicles",
+      "base_region": "USA",
+      "status": 2,
+      "gamepad": 2,
+      "notes": "None"
+    },
+    {
       "game_name": "Scarface - The World Is Yours",
       "game_region": "EUR",
       "base_name": "Rhythm Heaven Fever",
