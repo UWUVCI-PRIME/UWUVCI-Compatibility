@@ -217,6 +217,14 @@
       "notes": "None"
     },
     {
+      "game_name": "Boogerman: A Pick and Flick Adventure",
+      "game_region": "USA",
+      "base_name": "Super Metroid",
+      "base_region": "USA",
+      "status": 2,
+      "notes": "None"
+    },
+    {
       "game_name": "Brain Lord",
       "game_region": "USA",
       "base_name": "Donkey Kong Country",
