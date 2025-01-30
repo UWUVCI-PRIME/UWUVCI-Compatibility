@@ -1161,6 +1161,14 @@
       "notes": "Flickering UI Elements in the Title Screen, After going through that it works perfectly fine."
     },
     {
+      "game_name": "Lufia: Curse of the Sinistrals",
+      "game_region": "USA",
+      "base_name": "The Legend of Zelda: Spirit Tracks",
+      "base_region": "USA",
+      "status": 2,
+      "notes": "Works perfectly, surprisingly fun game"
+    },
+    {
       "game_name": "Mario & Luigi Bowser's Inside Story",
       "game_region": "USA",
       "base_name": "Super Mario 64 DS",
