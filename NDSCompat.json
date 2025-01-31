@@ -193,6 +193,14 @@
       "notes": "Will also work with the translation patch from https://www.romhacking.net/translations/2560/"
     },
     {
+      "game_name": "Blue Dragon: Awakened Shadow",
+      "game_region": "USA",
+      "base_name": "The Legend of Zelda: Spirt Tracks US",
+      "base_region": "USA",
+      "status": 2,
+      "notes": "None"
+    },
+    {
       "game_name": "Bold: The Video Game",
       "game_region": "USA",
       "base_name": "WarioWare: Touched!",
