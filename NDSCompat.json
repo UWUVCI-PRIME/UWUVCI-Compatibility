@@ -257,6 +257,14 @@
       "notes": "None"
     },
     {
+      "game_name": "Castlevania: Dawn of Sorrow",
+      "game_region": "USA",
+      "base_name": "The Legend of Zelda: Spirit Tracks US",
+      "base_region": "USA",
+      "status": 2,
+      "notes": "Also compatible with the playable Link patch: https://www.romhacking.net/hacks/7646/"
+    },
+    {
       "game_name": "Castlevania: Order of Ecclesia",
       "game_region": "USA",
       "base_name": "Metroid Prime Hunters",
