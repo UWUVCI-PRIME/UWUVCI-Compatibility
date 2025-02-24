@@ -1193,6 +1193,14 @@
       "notes": "Freezes on black screen after preview."
     },
     {
+      "game_name": "Game Boy Advance Video: Shrek 2",
+      "game_region": "USA",
+      "base_name": "Legend of Zelda: Minish Cap",
+      "base_region": "USA",
+      "status": 0,
+      "notes": "Freezes on black screen after preview."
+    },
+    {
       "game_name": "Game Boy Advance Video: The Adventures of Jimmy Neutron, Boy Genius",
       "game_region": "USA",
       "base_name": "Legend of Zelda: Minish Cap",
