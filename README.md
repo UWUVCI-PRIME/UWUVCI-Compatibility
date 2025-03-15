@@ -6,3 +6,6 @@ You can either update said JSON Files per Hand, or use the UWUVCI Discord bot to
 
 Those JSON Files will be used by the new [UWUVCI Website](https://uwuvci-prime.github.io/UWUVCI-Website/) to Display the Compatibility List.
 The Source Code for the UWUVCI Website can be found [here](https://github.com/UWUVCI-PRIME/UWUVCI-Website).
+
+
+All I did was add a game to the compatability list and do a PR.
