@@ -129,7 +129,6 @@
       "notes": "None"
     },
     {
-
       "game_name": "DuckTales",
       "game_region": "USA",
       "base_name": "Metroid",
@@ -258,6 +257,14 @@
       "notes": "There is a bug where the weapon layout can sometimes get messed up on the pause menu, not sure exactly what causes it. But weapons are still selectable, and other than that, the game plays well with no other issues. Can also use a Wii Remote horizontally as a controller."
     },
     {
+      "game_name": "Mega Man 6 - The Next Loop [Rom Hack]",
+      "game_region": "USA",
+      "base_name": "Kirby's Adventure",
+      "base_region": "USA",
+      "status": 2,
+      "notes": "Used Phacox's Injector. Beat all 8 Robot Masters, collected all Beat Parts and completed most Wily stages. Stopped after reaching the boss rush (Wind Man is difficult), but the game is more than likely able to be completed. It should be noted however that there are visual glitches after a suspend point is loaded. To fix, either select a stage or reset the game (Password input should also work)."
+    },
+    {
       "game_name": "Mega Man ULTRA (hack)",
       "game_region": "USA",
       "base_name": "Dr. Mario",
@@ -313,7 +320,7 @@
       "status": 1,
       "notes": "Music plays incorrectly, same issues as using Metal Slader Glory as a base. Everything else is OK."
     },
-    { 
+    {
       "game_name": "Rugrats: Adventures in Gameland",
       "game_region": "Any",
       "base_name": "Metal Slader Glory",
