@@ -1265,6 +1265,14 @@
       "notes": "Freezes after Enix logo."
     },
     {
+      "game_name": "Rockman & Forte [Jean Paul English Translation v1.5]",
+      "game_region": "JPN",
+      "base_name": "Donkey Kong Country",
+      "base_region": "USA",
+      "status": 2,
+      "notes": "Loads. Completed the intro's, Cold Man's & Burner Man's stages with no issues (Can't quite remember what USA base rom I used so try DKC first, that's most likely the base I injected into)."
+    },
+    {
       "game_name": "Rockman and Forte",
       "game_region": "JPN",
       "base_name": "Donkey Kong Country",
