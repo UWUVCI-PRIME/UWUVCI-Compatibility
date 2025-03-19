@@ -1465,6 +1465,14 @@
       "notes": "None"
     },
     {
+      "game_name": "Super Fire Pro Wrestling X Premium [Brian English Translation]",
+      "game_region": "JPN",
+      "base_name": "Kirby's Dream Land 3",
+      "base_region": "USA",
+      "status": 0,
+      "notes": "Black screen, but the console doesn't crash so you can return to the home menu. Same outcome for DKC & Super Mario RPG bases (Maybe there's a base that works? Try it out if interested)."
+    },
+    {
       "game_name": "Super Ghouls 'N Ghosts",
       "game_region": "USA",
       "base_name": "Super Metroid",
