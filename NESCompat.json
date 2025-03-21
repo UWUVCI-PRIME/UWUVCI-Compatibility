@@ -129,7 +129,6 @@
       "notes": "None"
     },
     {
-
       "game_name": "DuckTales",
       "game_region": "USA",
       "base_name": "Metroid",
@@ -298,6 +297,14 @@
       "notes": "Pixels Perfect works"
     },
     {
+      "game_name": "Mother - 25th Faithful Edition [Earth Bound USA Prototype rom hack]",
+      "game_region": "USA",
+      "base_name": "Kirby's Adventure",
+      "base_region": "USA",
+      "status": 2,
+      "notes": "Used Phacox's injector. Played a couple of battles and went through all of the menus, no issues (The two add-on patches Re-Faithful & Vanilla Sprites are able to be used as well)."
+    },
+    {
       "game_name": "Puyo Puyo",
       "game_region": "JPN",
       "base_name": "Earthbound Beginnings",
@@ -313,7 +320,7 @@
       "status": 1,
       "notes": "Music plays incorrectly, same issues as using Metal Slader Glory as a base. Everything else is OK."
     },
-    { 
+    {
       "game_name": "Rugrats: Adventures in Gameland",
       "game_region": "Any",
       "base_name": "Metal Slader Glory",
