@@ -2440,6 +2440,15 @@
       "notes": "Also works on EUR region console."
     },
     {
+      "game_name": "Mario and Sonic at the London 2012 Olympic Games ",
+      "game_region": "USA",
+      "base_name": "Rhythm Heaven Fever",
+      "base_region": "USA",
+      "status": 2,
+      "gamepad": 0,
+      "notes": "Be sure to name it as \"Mario and Sonic\" instead of \"Mario & Sonic\" because the \"&\" symbol gives a \"???\" after installation of the WUP. I used a .rvz file that's converted into ISO. Enable \"Disable Trimming\". Haven't tested injecting the wbfs version, only the ISO converted from .rvz"
+    },
+    {
       "game_name": "Mario Kart Wii",
       "game_region": "USA",
       "base_name": "All",
