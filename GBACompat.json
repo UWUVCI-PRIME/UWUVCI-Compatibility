@@ -2177,6 +2177,14 @@
       "notes": "None"
     },
     {
+      "game_name": "Tetris 2",
+      "game_region": "USA",
+      "base_name": "Mario & Luigi Superstar Saga US",
+      "base_region": "USA",
+      "status": 2,
+      "notes": "It works perfectly fine"
+    },
+    {
       "game_name": "The Legend of Zelda: Link's Awakening DX",
       "game_region": "USA",
       "base_name": "Mario & Luigi: Superstar Saga",
