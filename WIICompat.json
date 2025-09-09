@@ -4870,6 +4870,15 @@
       "notes": "Also works on EUR region console."
     },
     {
+      "game_name": "Toy Story 3",
+      "game_region": "USA",
+      "base_name": "Rhythm Heaven Fever",
+      "base_region": "USA",
+      "status": 2,
+      "gamepad": 0,
+      "notes": ""
+    },
+    {
       "game_name": "Trauma Center: New Blood",
       "game_region": "EUR",
       "base_name": "Rhythm Heaven Fever",
