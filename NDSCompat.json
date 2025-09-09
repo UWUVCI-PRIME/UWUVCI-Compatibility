@@ -145,6 +145,14 @@
       "notes": "None"
     },
     {
+      "game_name": "Avalon Code",
+      "game_region": "USA",
+      "base_name": "The Legend of Zelda: Spirit Tracks",
+      "base_region": "USA",
+      "status": 2,
+      "notes": "Works perfectly"
+    },
+    {
       "game_name": "Bangai-O Spirits",
       "game_region": "USA",
       "base_name": "New Super Mario Bros.",
