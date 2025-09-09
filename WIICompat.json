@@ -3376,6 +3376,15 @@
       "notes": "Inject using FULL ISO, DON'T TRIM or use WBFS file, if using TeconMoon's WiiVC Injector v3.0.1, tick the \"Don't trim game output (Wii Retail only)\" option in the Advanced options. Fail to do so will result in nothing happening at the first Colosseum battle. Also works on EUR region console. Match WiiMote emulation with in-game config for Gamepad. Use Wiimote to adjust settings for New Game."
     },
     {
+      "game_name": "Pokémon Rumble ",
+      "game_region": "USA",
+      "base_name": "Rhythm Heaven Fever",
+      "base_region": "USA",
+      "status": 2,
+      "gamepad": 2,
+      "notes": "None"
+    },
+    {
       "game_name": "PokéPark 2 - Wonders Beyond",
       "game_region": "USA",
       "base_name": "Rhythm Heaven Fever",
