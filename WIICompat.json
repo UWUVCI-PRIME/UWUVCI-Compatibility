@@ -1999,6 +1999,15 @@
       "notes": "Not all challenges stages tested. Launching the following Classic Titles: Kirby's Adventure, Kirby Super Star and Kirby's Dream Land 3 will boot to black screen and system will freeze on EUR region console. Every classic game works. Gamepad as CC is unable to sync after loading a Classic title, but Gamepad as horizontal Wiimote emulation works as intended. Also works on EUR region console."
     },
     {
+      "game_name": "Kirby's Dream Collection ",
+      "game_region": "JPN",
+      "base_name": "Rhythm Heaven Fever",
+      "base_region": "JPN",
+      "status": 2,
+      "gamepad": 2,
+      "notes": "Game is not playable past the initial bootup screen. Instead of loading after pressing A the game crashes and the Wii U needs to be restarted."
+    },
+    {
       "game_name": "Kirby's Dream Collection Special Edition",
       "game_region": "",
       "base_name": "Rhythm Heaven Fever",
