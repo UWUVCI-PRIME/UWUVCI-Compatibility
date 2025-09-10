@@ -1,6 +1,14 @@
 {
   "compatibility": [
     {
+      "game_name": "7 Grand Dad",
+      "game_region": "Any",
+      "base_name": "EarthBound Beginnings/Mother",
+      "base_region": "USA",
+      "status": 2,
+      "notes": "ROM hack of The Flintstones: The Rescue of Dino and Hoppy"
+    },
+    {
       "game_name": "7 Grand Dad (ROM hack of The Flintstones: The Rescue of Dino and Hoppy)",
       "game_region": "",
       "base_name": "Earthbound Beginnings",
