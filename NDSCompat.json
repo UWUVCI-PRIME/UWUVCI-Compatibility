@@ -2289,6 +2289,14 @@
       "notes": "Compatible with the D-pad patch: https://www.romhacking.net/hacks/2248/"
     },
     {
+      "game_name": "The Legend of Zelda: Spirit Tracks",
+      "game_region": "USA",
+      "base_name": "The Legend of Zelda: Spirit Tracks US",
+      "base_region": "USA",
+      "status": 2,
+      "notes": "Compatible with the D-pad patch: https://www.romhacking.net/hacks/2248/"
+    },
+    {
       "game_name": "The Legendary Starfy",
       "game_region": "USA",
       "base_name": "New Super Mario Bros.",
