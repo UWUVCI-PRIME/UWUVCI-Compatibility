@@ -129,7 +129,6 @@
       "notes": "None"
     },
     {
-
       "game_name": "DuckTales",
       "game_region": "USA",
       "base_name": "Metroid",
@@ -298,6 +297,14 @@
       "notes": "Pixels Perfect works"
     },
     {
+      "game_name": "Paperboy",
+      "game_region": "USA",
+      "base_name": "Metroid",
+      "base_region": "USA",
+      "status": 2,
+      "notes": "None"
+    },
+    {
       "game_name": "Puyo Puyo",
       "game_region": "JPN",
       "base_name": "Earthbound Beginnings",
@@ -313,7 +320,7 @@
       "status": 1,
       "notes": "Music plays incorrectly, same issues as using Metal Slader Glory as a base. Everything else is OK."
     },
-    { 
+    {
       "game_name": "Rugrats: Adventures in Gameland",
       "game_region": "Any",
       "base_name": "Metal Slader Glory",

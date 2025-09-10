@@ -1999,6 +1999,15 @@
       "notes": "Not all challenges stages tested. Launching the following Classic Titles: Kirby's Adventure, Kirby Super Star and Kirby's Dream Land 3 will boot to black screen and system will freeze on EUR region console. Every classic game works. Gamepad as CC is unable to sync after loading a Classic title, but Gamepad as horizontal Wiimote emulation works as intended. Also works on EUR region console."
     },
     {
+      "game_name": "Kirby's Dream Collection ",
+      "game_region": "JPN",
+      "base_name": "Rhythm Heaven Fever",
+      "base_region": "JPN",
+      "status": 2,
+      "gamepad": 2,
+      "notes": "Game is not playable past the initial bootup screen. Instead of loading after pressing A the game crashes and the Wii U needs to be restarted."
+    },
+    {
       "game_name": "Kirby's Dream Collection Special Edition",
       "game_region": "",
       "base_name": "Rhythm Heaven Fever",
@@ -2440,6 +2449,15 @@
       "notes": "Also works on EUR region console."
     },
     {
+      "game_name": "Mario and Sonic at the London 2012 Olympic Games ",
+      "game_region": "USA",
+      "base_name": "Rhythm Heaven Fever",
+      "base_region": "USA",
+      "status": 2,
+      "gamepad": 0,
+      "notes": "Be sure to name it as \"Mario and Sonic\" instead of \"Mario & Sonic\" because the \"&\" symbol gives a \"???\" after installation of the WUP. I used a .rvz file that's converted into ISO. Enable \"Disable Trimming\". Haven't tested injecting the wbfs version, only the ISO converted from .rvz"
+    },
+    {
       "game_name": "Mario Kart Wii",
       "game_region": "USA",
       "base_name": "All",
@@ -2681,6 +2699,15 @@
       "status": 2,
       "gamepad": 0,
       "notes": "Also works on EUR region console."
+    },
+    {
+      "game_name": "MICHAEL JACKSON THE EXPERIENCE SPECIAL EDITION ",
+      "game_region": "EUR",
+      "base_name": "Rhythm Heaven Fever US",
+      "base_region": "USA",
+      "status": 2,
+      "gamepad": 0,
+      "notes": "None"
     },
     {
       "game_name": "Milestone Shooting Collection 2",
@@ -3356,6 +3383,15 @@
       "status": 2,
       "gamepad": 2,
       "notes": "Inject using FULL ISO, DON'T TRIM or use WBFS file, if using TeconMoon's WiiVC Injector v3.0.1, tick the \"Don't trim game output (Wii Retail only)\" option in the Advanced options. Fail to do so will result in nothing happening at the first Colosseum battle. Also works on EUR region console. Match WiiMote emulation with in-game config for Gamepad. Use Wiimote to adjust settings for New Game."
+    },
+    {
+      "game_name": "Pokémon Rumble ",
+      "game_region": "USA",
+      "base_name": "Rhythm Heaven Fever",
+      "base_region": "USA",
+      "status": 2,
+      "gamepad": 2,
+      "notes": "None"
     },
     {
       "game_name": "PokéPark 2 - Wonders Beyond",
@@ -4850,6 +4886,15 @@
       "status": 2,
       "gamepad": 2,
       "notes": "Also works on EUR region console."
+    },
+    {
+      "game_name": "Toy Story 3",
+      "game_region": "USA",
+      "base_name": "Rhythm Heaven Fever",
+      "base_region": "USA",
+      "status": 2,
+      "gamepad": 0,
+      "notes": ""
     },
     {
       "game_name": "Trauma Center: New Blood",

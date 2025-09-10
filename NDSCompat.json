@@ -145,6 +145,14 @@
       "notes": "None"
     },
     {
+      "game_name": "Avalon Code",
+      "game_region": "USA",
+      "base_name": "The Legend of Zelda: Spirit Tracks",
+      "base_region": "USA",
+      "status": 2,
+      "notes": "Works perfectly"
+    },
+    {
       "game_name": "Bangai-O Spirits",
       "game_region": "USA",
       "base_name": "New Super Mario Bros.",
@@ -191,6 +199,14 @@
       "base_region": "USA",
       "status": 2,
       "notes": "Will also work with the translation patch from https://www.romhacking.net/translations/2560/"
+    },
+    {
+      "game_name": "Blue Dragon: Awakened Shadow",
+      "game_region": "USA",
+      "base_name": "The Legend of Zelda: Spirt Tracks US",
+      "base_region": "USA",
+      "status": 2,
+      "notes": "None"
     },
     {
       "game_name": "Bold: The Video Game",
@@ -255,6 +271,14 @@
       "base_region": "EUR",
       "status": 2,
       "notes": "None"
+    },
+    {
+      "game_name": "Castlevania: Dawn of Sorrow",
+      "game_region": "USA",
+      "base_name": "The Legend of Zelda: Spirit Tracks US",
+      "base_region": "USA",
+      "status": 2,
+      "notes": "Also compatible with the playable Link patch: https://www.romhacking.net/hacks/7646/"
     },
     {
       "game_name": "Castlevania: Order of Ecclesia",
@@ -564,6 +588,14 @@
       "game_name": "Dragon Quest IX: Sentinels of the starry Skies",
       "game_region": "USA",
       "base_name": "New Super Mario Bros.",
+      "base_region": "USA",
+      "status": 2,
+      "notes": "None"
+    },
+    {
+      "game_name": "Dragon Quest Monsters: Joker 2",
+      "game_region": "USA",
+      "base_name": "The Legend of Zelda: Spirit Tracks US",
       "base_region": "USA",
       "status": 2,
       "notes": "None"
@@ -2137,6 +2169,14 @@
       "notes": "None"
     },
     {
+      "game_name": "Suikoden Tierkreis",
+      "game_region": "USA",
+      "base_name": "The Legend of Zelda: Spirit Tracks",
+      "base_region": "USA",
+      "status": 2,
+      "notes": "None"
+    },
+    {
       "game_name": "Summon Night - Twin Age",
       "game_region": "USA",
       "base_name": "New Super Mario Bros.",
@@ -2241,12 +2281,20 @@
       "notes": "None"
     },
     {
+      "game_name": "The Legend of Zelda: Phantom Hourglass",
+      "game_region": "USA",
+      "base_name": "The Legend of Zelda: Spirit Tracks US",
+      "base_region": "USA",
+      "status": 2,
+      "notes": "Compatible with the D-pad patch: https://www.romhacking.net/hacks/2248/"
+    },
+    {
       "game_name": "The Legend of Zelda: Spirit Tracks",
       "game_region": "USA",
       "base_name": "The Legend of Zelda: Spirit Tracks US",
       "base_region": "USA",
       "status": 2,
-      "notes": "Compatible with the D-Pad Patch: https://www.romhacking.net/hacks/2235/"
+      "notes": "Compatible with the D-pad patch: https://www.romhacking.net/hacks/2248/"
     },
     {
       "game_name": "The Legendary Starfy",

@@ -2777,6 +2777,14 @@
       "notes": "Use a Hexidecimal editor to change the NALE code to NALJ, then use the ini posted  https://discord.com/channels/386898225161961493/461150523366834177/956241344702079036 Extra Notes: Hexadecimal editors are able to go into roms and change values within. In this case, changing a patched rom’s region code from NALE to NALJ is changing it from an English release(usually meant to represent the US) to Japan. The internal code and language of the game isn’t changed, it’s just the identifier that the console uses is. In this case, the .ini will recognize the rom as Japanese and will function. Otherwise, changing the region identifier is the only way to run the game on Wii U right now. Do not check Widescreen because it doesn't work. If you're having issues with a newer version of the mod, try tweaking the settings in the ini file. And lastly, it should be obviously, but use the ini file that's linked here and not the ini file that UWUVCI offers."
     },
     {
+      "game_name": "Smash Remix 1.5.2",
+      "game_region": "JPN",
+      "base_name": "Mario Golf",
+      "base_region": "USA",
+      "status": 2,
+      "notes": "The rom was was changed to NALJ using a hex edit and the NALJ0_SMASH_REMIX.ini was used. Wide screen was working and restore points. The Community Screen made was still missing."
+    },
+    {
       "game_name": "Snobow Kids",
       "game_region": "JPN",
       "base_name": "F-Zero X",
