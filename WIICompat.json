@@ -3646,6 +3646,15 @@
       "notes": "Can be injected with Vertical Wii Remote for standard controls, but you lose IR pointer functionality. Can be patched to use Classic Controller, which adds more mappings. https://gbatemp.net/threads/new-classic-controller-hacks.659837/post-10516135"
     },
     {
+      "game_name": "Rhythm Heaven Fever ",
+      "game_region": "USA",
+      "base_name": "Rhythm Heaven Fever",
+      "base_region": "USA",
+      "status": 2,
+      "gamepad": 2,
+      "notes": "injected this using a cc patch with “Force Classic Controller” checked, can also boot to home menu just fine"
+    },
+    {
       "game_name": "Rock Band",
       "game_region": "USA",
       "base_name": "Rhythm Heaven Fever",
