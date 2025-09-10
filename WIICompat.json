@@ -1306,6 +1306,15 @@
       "notes": "Also works on EUR region console."
     },
     {
+      "game_name": "Fluidity ",
+      "game_region": "USA",
+      "base_name": "Rhythm Heaven Fever",
+      "base_region": "USA",
+      "status": 2,
+      "gamepad": 2,
+      "notes": "WAD Must be patched using the Classic Controller Hack WAD Patcher, or manually patching the WAD's main.dol.  https://gbatemp.net/threads/new-classic-controller-hacks.659837/post-10544022"
+    },
+    {
       "game_name": "Food Network - Cook or Be Cooked!",
       "game_region": "USA",
       "base_name": "Rhythm Heaven Fever",
