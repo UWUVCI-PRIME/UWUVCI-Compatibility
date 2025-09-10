@@ -817,6 +817,14 @@
       "notes": "Shows a white screen."
     },
     {
+      "game_name": "Fire Emblem: Shadow Dragon - Full Content Patch",
+      "game_region": "USA",
+      "base_name": "The Legend of Zelda: Spirit Tracks US",
+      "base_region": "USA",
+      "status": 2,
+      "notes": "Compatible with the full content patch https://www.romhacking.net/hacks/4054/"
+    },
+    {
       "game_name": "Flower, Sun, and Rain",
       "game_region": "EUR",
       "base_name": "Mario Kart DS",
