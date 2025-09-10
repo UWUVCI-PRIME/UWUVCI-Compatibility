@@ -2033,6 +2033,14 @@
       "notes": "None"
     },
     {
+      "game_name": "Scribblenauts",
+      "game_region": "USA",
+      "base_name": "The Legend of Zelda Spirit Tracks",
+      "base_region": "USA",
+      "status": 2,
+      "notes": "Works great. No issues so far."
+    },
+    {
       "game_name": "SEGA Superstars Tennis",
       "game_region": "USA",
       "base_name": "Kirby Mass Attack",
