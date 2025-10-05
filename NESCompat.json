@@ -455,6 +455,14 @@
       "base_region": "USA",
       "status": 2,
       "notes": "None"
+    },
+    {
+      "game_name": "test",
+      "game_region": "USA",
+      "base_name": "test",
+      "base_region": "USA",
+      "status": 2,
+      "notes": "None"
     }
   ]
 }
