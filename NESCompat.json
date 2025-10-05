@@ -417,6 +417,14 @@
       "notes": "Doesn't work if injected into Earthbound Beginnings."
     },
     {
+      "game_name": "test2",
+      "game_region": "USA",
+      "base_name": "test2",
+      "base_region": "USA",
+      "status": 2,
+      "notes": "None"
+    },
+    {
       "game_name": "The Legend of Zelda",
       "game_region": "USA",
       "base_name": "Earthbound Beginnings",
