@@ -417,6 +417,14 @@
       "notes": "Doesn't work if injected into Earthbound Beginnings."
     },
     {
+      "game_name": "Test-A",
+      "game_region": "EUR",
+      "base_name": "DKC-Test",
+      "base_region": "KOR",
+      "status": 2,
+      "notes": "Yo, this is a test and the test is like totes cool. (UWUVCI Version: 3.200.1)"
+    },
+    {
       "game_name": "The Legend of Zelda",
       "game_region": "USA",
       "base_name": "Earthbound Beginnings",
