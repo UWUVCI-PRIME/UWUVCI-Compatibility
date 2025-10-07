@@ -185,6 +185,14 @@
       "notes": "Only tested to title screen. The rom is too large to be used with any of the available bases in UWUVCI so it will only work with JPN Final Fantasy III or another base of equal size or larger."
     },
     {
+      "game_name": "fsdf",
+      "game_region": "EUR",
+      "base_name": "fsdfds",
+      "base_region": "USA",
+      "status": 2,
+      "notes": "(UWUVCI Version: 3.200.1)"
+    },
+    {
       "game_name": "Gaplus",
       "game_region": "",
       "base_name": "Earthbound Beginnings",
