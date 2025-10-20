@@ -1514,14 +1514,6 @@
     },
     {
       "game_name": "Super Mario World",
-      "game_region": "USA",
-      "base_name": "Super Metroid",
-      "base_region": "USA",
-      "status": 2,
-      "notes": "None"
-    },
-    {
-      "game_name": "Super Mario World",
       "game_region": "EUR",
       "base_name": "Super Metroid",
       "base_region": "USA",
@@ -1534,6 +1526,14 @@
       "base_name": "Super Metroid",
       "base_region": "USA",
       "status": 0,
+      "notes": "None"
+    },
+    {
+      "game_name": "Super Mario World",
+      "game_region": "USA",
+      "base_name": "Super Metroid",
+      "base_region": "USA",
+      "status": 2,
       "notes": "None"
     },
     {
@@ -1711,6 +1711,14 @@
       "base_region": "USA",
       "status": 1,
       "notes": "Game works but with no sound."
+    },
+    {
+      "game_name": "test",
+      "game_region": "USA",
+      "base_name": "test",
+      "base_region": "USA",
+      "status": 2,
+      "notes": "test (UWUVCI Version: 3.200.1)"
     },
     {
       "game_name": "Tetris Attack",
