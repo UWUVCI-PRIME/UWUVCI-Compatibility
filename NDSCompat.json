@@ -2575,6 +2575,15 @@
       "notes": "English Patch also works too"
     },
     {
+      "rendersize": "1x",
+      "game_name": "test",
+      "game_region": "USA",
+      "base_name": "Super Mario 64 DS",
+      "base_region": "US",
+      "status": 2,
+      "notes": "test (UWUVCI Version: 3.200.1)"
+    },
+    {
       "rendersize": null,
       "game_name": "Tetris DS",
       "game_region": "USA",
