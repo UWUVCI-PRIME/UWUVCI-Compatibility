@@ -1450,6 +1450,15 @@
       "notes": "Unsure if Loadiine or Wup Installable. The frames sometimes drop."
     },
     {
+      "rendersize": "1x",
+      "game_name": "Mario vs. Donkey Kong: Mini-Land Mayhem!",
+      "game_region": "USA",
+      "base_name": "Any",
+      "base_region": "Unknown",
+      "status": 0,
+      "notes": "This is a DSi enhanced game, and currently no DSi enhanced games work in VC since there is no DSi base to use. (UWUVCI Version: 3.200.1)"
+    },
+    {
       "rendersize": null,
       "game_name": "Marvel Nemesis: Rise of the Imperfects",
       "game_region": "USA",
