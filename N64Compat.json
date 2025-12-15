@@ -306,19 +306,19 @@
     },
     {
       "game_name": "Banjo-Tooie",
-      "game_region": "USA",
-      "base_name": "F-Zero X",
-      "base_region": "USA",
-      "status": 1,
-      "notes": "Works with ini, some music and slowdown on certain areas, pal version works with less slowdowns. Added Notes: Same issue as the EUR version below."
-    },
-    {
-      "game_name": "Banjo-Tooie",
       "game_region": "EUR",
       "base_name": "F-Zero X",
       "base_region": "USA",
       "status": 1,
       "notes": "Works with ini. Almost always full speed with very ocasional fps drops. To see the botton part of the subtitltes go to the settings screen and change screen scale, it will still be cut on the botton but you can read all the subtitles. Added Notes: There has been reports from a few people that this game crashes at the same spot in the game on level 5 and also random in game crashes, click https://discord.com/channels/386898225161961493/1308040315063635988/1308040575957729301 to read more info."
+    },
+    {
+      "game_name": "Banjo-Tooie",
+      "game_region": "USA",
+      "base_name": "F-Zero X",
+      "base_region": "USA",
+      "status": 1,
+      "notes": "Works with ini, some music and slowdown on certain areas, pal version works with less slowdowns. Added Notes: Same issue as the EUR version below."
     },
     {
       "game_name": "Banjo-Tooie",
@@ -697,6 +697,14 @@
       "notes": "Sound, but no picture."
     },
     {
+      "game_name": "Conker's Bad Fur Day",
+      "game_region": "USA",
+      "base_name": "Donkey Kong 64",
+      "base_region": "USA",
+      "status": 0,
+      "notes": "The game goes to a black screen, I did not use an ini file. (UWUVCI Version: 3.200.1)"
+    },
+    {
       "game_name": "Cruis'n Exotica",
       "game_region": "USA",
       "base_name": "Donkey Kong 64",
@@ -794,19 +802,19 @@
     },
     {
       "game_name": "Diddy Kong Racing",
-      "game_region": "USA",
-      "base_name": "F-Zero X",
-      "base_region": "USA",
-      "status": 1,
-      "notes": "Use the config ini provided, game will boot, missing and messed up graphics, sound works but stutters, somewhat playable but unplayable."
-    },
-    {
-      "game_name": "Diddy Kong Racing",
       "game_region": "JPN",
       "base_name": "Donkey Kong 64",
       "base_region": "USA",
       "status": 0,
       "notes": "Freezes Wii U on boot."
+    },
+    {
+      "game_name": "Diddy Kong Racing",
+      "game_region": "USA",
+      "base_name": "F-Zero X",
+      "base_region": "USA",
+      "status": 1,
+      "notes": "Use the config ini provided, game will boot, missing and messed up graphics, sound works but stutters, somewhat playable but unplayable."
     },
     {
       "game_name": "Disney's Tarzan",
@@ -850,19 +858,19 @@
     },
     {
       "game_name": "DOOM 64",
-      "game_region": "USA",
-      "base_name": "F-Zero X",
-      "base_region": "USA",
-      "status": 2,
-      "notes": "Game doesn't work on EUR region console, use EUR version instead."
-    },
-    {
-      "game_name": "DOOM 64",
       "game_region": "JPN",
       "base_name": "F-Zero X",
       "base_region": "USA",
       "status": 2,
       "notes": "Works perfectly, censored version with green blood."
+    },
+    {
+      "game_name": "DOOM 64",
+      "game_region": "USA",
+      "base_name": "F-Zero X",
+      "base_region": "USA",
+      "status": 2,
+      "notes": "Game doesn't work on EUR region console, use EUR version instead."
     },
     {
       "game_name": "Doraemon",
@@ -978,19 +986,19 @@
     },
     {
       "game_name": "Excitebike 64",
-      "game_region": "USA",
-      "base_name": "Mario Golf",
-      "base_region": "USA",
-      "status": 0,
-      "notes": "Even with jap header Wii U freezes when starting races."
-    },
-    {
-      "game_name": "Excitebike 64",
       "game_region": "JPN",
       "base_name": "Mario Golf",
       "base_region": "USA",
       "status": 2,
       "notes": "Loadiine v4 tested."
+    },
+    {
+      "game_name": "Excitebike 64",
+      "game_region": "USA",
+      "base_name": "Mario Golf",
+      "base_region": "USA",
+      "status": 0,
+      "notes": "Even with jap header Wii U freezes when starting races."
     },
     {
       "game_name": "Extreme G",
@@ -1050,6 +1058,14 @@
     },
     {
       "game_name": "F-Zero X",
+      "game_region": "JPN",
+      "base_name": "Mario Golf",
+      "base_region": "USA",
+      "status": 2,
+      "notes": "Works perfect"
+    },
+    {
+      "game_name": "F-Zero X",
       "game_region": "USA",
       "base_name": "Mario Golf",
       "base_region": "USA",
@@ -1057,7 +1073,7 @@
       "notes": "Open the rom with an hex editor and replace CFZE for CFZJ and use the F-Zero X J config file already made by nintendo, seems to work perfectly."
     },
     {
-      "game_name": "F-Zero X",
+      "game_name": "F-Zero X Climax",
       "game_region": "JPN",
       "base_name": "Mario Golf",
       "base_region": "USA",
@@ -1067,14 +1083,6 @@
     {
       "game_name": "F-Zero X Climax",
       "game_region": "USA",
-      "base_name": "Mario Golf",
-      "base_region": "USA",
-      "status": 2,
-      "notes": "Works perfect"
-    },
-    {
-      "game_name": "F-Zero X Climax",
-      "game_region": "JPN",
       "base_name": "Mario Golf",
       "base_region": "USA",
       "status": 2,
@@ -1298,43 +1306,43 @@
     },
     {
       "game_name": "Goldeneye 007",
-      "game_region": "USA",
-      "base_name": "Donkey Kong 64",
-      "base_region": "USA",
-      "status": 0,
-      "notes": "Corrupted textures, lag and crashes after loading a mission."
-    },
-    {
-      "game_name": "Goldeneye 007",
-      "game_region": "USA",
-      "base_name": "Mario Golf",
-      "base_region": "USA",
-      "status": 0,
-      "notes": "Corrupted textures, lag and crashes after loading a mission."
-    },
-    {
-      "game_name": "Goldeneye 007",
-      "game_region": "JPN",
-      "base_name": "Donkey Kong 64",
-      "base_region": "USA",
-      "status": 1,
-      "notes": "Around 15 fps and freezing randomly when shooting too much"
-    },
-    {
-      "game_name": "Goldeneye 007",
-      "game_region": "JPN",
-      "base_name": "Mario Golf",
-      "base_region": "USA",
-      "status": 1,
-      "notes": "Around 15 fps and freezing randomly when shooting too much"
-    },
-    {
-      "game_name": "Goldeneye 007",
       "game_region": "EUR",
       "base_name": "Paper Mario",
       "base_region": "USA",
       "status": 0,
       "notes": "Black screen, couldn't open VC menu. Don't think Home Menu worked either as I remember force-shutting the Wii U down."
+    },
+    {
+      "game_name": "Goldeneye 007",
+      "game_region": "JPN",
+      "base_name": "Donkey Kong 64",
+      "base_region": "USA",
+      "status": 1,
+      "notes": "Around 15 fps and freezing randomly when shooting too much"
+    },
+    {
+      "game_name": "Goldeneye 007",
+      "game_region": "JPN",
+      "base_name": "Mario Golf",
+      "base_region": "USA",
+      "status": 1,
+      "notes": "Around 15 fps and freezing randomly when shooting too much"
+    },
+    {
+      "game_name": "Goldeneye 007",
+      "game_region": "USA",
+      "base_name": "Donkey Kong 64",
+      "base_region": "USA",
+      "status": 0,
+      "notes": "Corrupted textures, lag and crashes after loading a mission."
+    },
+    {
+      "game_name": "Goldeneye 007",
+      "game_region": "USA",
+      "base_name": "Mario Golf",
+      "base_region": "USA",
+      "status": 0,
+      "notes": "Corrupted textures, lag and crashes after loading a mission."
     },
     {
       "game_name": "GT64 - Championship Edition",
@@ -1402,19 +1410,19 @@
     },
     {
       "game_name": "Hybrid Heaven",
-      "game_region": "USA",
-      "base_name": "Mario Party 2",
-      "base_region": "USA",
-      "status": 2,
-      "notes": "Works perfectly with just retracebyvsync=1 and mempak=1"
-    },
-    {
-      "game_name": "Hybrid Heaven",
       "game_region": "JPN",
       "base_name": "Donkey Kong 64",
       "base_region": "EUR",
       "status": 2,
       "notes": "Minor glitches at konami logo, invisible map, no high-res option on JAP version, you can save without memory card in JAP version. There is also a almost unnoticeable frame rate issue."
+    },
+    {
+      "game_name": "Hybrid Heaven",
+      "game_region": "USA",
+      "base_name": "Mario Party 2",
+      "base_region": "USA",
+      "status": 2,
+      "notes": "Works perfectly with just retracebyvsync=1 and mempak=1"
     },
     {
       "game_name": "Hydro Thunder",
@@ -1682,6 +1690,14 @@
     },
     {
       "game_name": "Mario Kart 64",
+      "game_region": "EUR",
+      "base_name": "Super Mario 64",
+      "base_region": "JPN",
+      "status": 2,
+      "notes": "weird audio?"
+    },
+    {
+      "game_name": "Mario Kart 64",
       "game_region": "USA",
       "base_name": "Donkey Kong 64",
       "base_region": "USA",
@@ -1695,14 +1711,6 @@
       "base_region": "USA",
       "status": 2,
       "notes": "Loadiine v4 tested."
-    },
-    {
-      "game_name": "Mario Kart 64",
-      "game_region": "EUR",
-      "base_name": "Super Mario 64",
-      "base_region": "JPN",
-      "status": 2,
-      "notes": "weird audio?"
     },
     {
       "game_name": "Mario Party",
@@ -1738,6 +1746,14 @@
     },
     {
       "game_name": "Mario Party 3",
+      "game_region": "EUR",
+      "base_name": "The Legend of Zelda: Majora's Mask",
+      "base_region": "USA",
+      "status": 2,
+      "notes": "Will have weird stuttering/graphical glitches without the ini file."
+    },
+    {
+      "game_name": "Mario Party 3",
       "game_region": "USA",
       "base_name": "Donkey Kong 64",
       "base_region": "EUR",
@@ -1762,16 +1778,16 @@
     },
     {
       "game_name": "Mario Party 3",
-      "game_region": "EUR",
-      "base_name": "The Legend of Zelda: Majora's Mask",
-      "base_region": "USA",
-      "status": 2,
-      "notes": "Will have weird stuttering/graphical glitches without the ini file."
-    },
-    {
-      "game_name": "Mario Party 3",
       "game_region": "USA",
       "base_name": "Donkey Kong 64",
+      "base_region": "USA",
+      "status": 2,
+      "notes": "None"
+    },
+    {
+      "game_name": "Mario Tennis",
+      "game_region": "JPN",
+      "base_name": "Mario Golf",
       "base_region": "USA",
       "status": 2,
       "notes": "None"
@@ -1783,14 +1799,6 @@
       "base_region": "USA",
       "status": 2,
       "notes": "Loadiine v4 tested."
-    },
-    {
-      "game_name": "Mario Tennis",
-      "game_region": "JPN",
-      "base_name": "Mario Golf",
-      "base_region": "USA",
-      "status": 2,
-      "notes": "None"
     },
     {
       "game_name": "Mario VS. Wario Ware",
@@ -2186,6 +2194,14 @@
     },
     {
       "game_name": "Paper Mario",
+      "game_region": "EUR",
+      "base_name": "Super Mario 64",
+      "base_region": "JPN",
+      "status": 2,
+      "notes": "None"
+    },
+    {
+      "game_name": "Paper Mario",
       "game_region": "USA",
       "base_name": "Donkey Kong 64",
       "base_region": "USA",
@@ -2207,14 +2223,6 @@
       "base_region": "USA",
       "status": 2,
       "notes": "Game is in widescreen."
-    },
-    {
-      "game_name": "Paper Mario",
-      "game_region": "EUR",
-      "base_name": "Super Mario 64",
-      "base_region": "JPN",
-      "status": 2,
-      "notes": "None"
     },
     {
       "game_name": "Paper Mario (Widescreen Patch)",
@@ -2282,6 +2290,14 @@
     },
     {
       "game_name": "Perfect Dark",
+      "game_region": "JPN",
+      "base_name": "Donkey Kong 64 EU",
+      "base_region": "USA",
+      "status": 2,
+      "notes": "Game stuters, but it is very playable."
+    },
+    {
+      "game_name": "Perfect Dark",
       "game_region": "USA",
       "base_name": "Donkey Kong 64",
       "base_region": "USA",
@@ -2295,14 +2311,6 @@
       "base_region": "USA",
       "status": 2,
       "notes": "Requires the Japanese ROM header to work. Game stuters, but it is very playable."
-    },
-    {
-      "game_name": "Perfect Dark",
-      "game_region": "JPN",
-      "base_name": "Donkey Kong 64 EU",
-      "base_region": "USA",
-      "status": 2,
-      "notes": "Game stuters, but it is very playable."
     },
     {
       "game_name": "Pilotwings 64",
@@ -2346,6 +2354,14 @@
     },
     {
       "game_name": "Pokémon Snap",
+      "game_region": "JPN",
+      "base_name": "Pokémon Snap US",
+      "base_region": "USA",
+      "status": 2,
+      "notes": "Checking for issues"
+    },
+    {
+      "game_name": "Pokémon Snap",
       "game_region": "USA",
       "base_name": "Mario Kart 64",
       "base_region": "USA",
@@ -2367,14 +2383,6 @@
       "base_region": "USA",
       "status": 2,
       "notes": "Byteswapped ROM with Japanese header. Red dot doesn't work, but pictures are recognized."
-    },
-    {
-      "game_name": "Pokémon Snap",
-      "game_region": "JPN",
-      "base_name": "Pokémon Snap US",
-      "base_region": "USA",
-      "status": 2,
-      "notes": "Checking for issues"
     },
     {
       "game_name": "Pokémon Stadium",
@@ -2690,6 +2698,14 @@
     },
     {
       "game_name": "Shadowgate 64: Trials of the Four Towers",
+      "game_region": "JPN",
+      "base_name": "Paper Mario",
+      "base_region": "USA",
+      "status": 0,
+      "notes": "The game stops working after selecting New Game"
+    },
+    {
+      "game_name": "Shadowgate 64: Trials of the Four Towers",
       "game_region": "USA",
       "base_name": "Mario Party 2",
       "base_region": "USA",
@@ -2703,14 +2719,6 @@
       "base_region": "USA",
       "status": 1,
       "notes": "The game works perfectly except any book you have if you try to read any page other than the first page the game will freeze sadly."
-    },
-    {
-      "game_name": "Shadowgate 64: Trials of the Four Towers",
-      "game_region": "JPN",
-      "base_name": "Paper Mario",
-      "base_region": "USA",
-      "status": 0,
-      "notes": "The game stops working after selecting New Game"
     },
     {
       "game_name": "Shadowman",
@@ -2882,7 +2890,7 @@
     },
     {
       "game_name": "Star Fox 64",
-      "game_region": "USA",
+      "game_region": "JPN",
       "base_name": "Mario Golf",
       "base_region": "USA",
       "status": 2,
@@ -2890,7 +2898,7 @@
     },
     {
       "game_name": "Star Fox 64",
-      "game_region": "JPN",
+      "game_region": "USA",
       "base_name": "Mario Golf",
       "base_region": "USA",
       "status": 2,
@@ -3210,30 +3218,6 @@
     },
     {
       "game_name": "Super Smash Bros.",
-      "game_region": "USA",
-      "base_name": "Mario Golf",
-      "base_region": "USA",
-      "status": 2,
-      "notes": "Open the ROM with an hex editor and replace gameid for the JPN gameid and use the Super Smash Bros. JPN config file already made by Nintendo, seems to work perfectly."
-    },
-    {
-      "game_name": "Super Smash Bros.",
-      "game_region": "JPN",
-      "base_name": "Mario Golf",
-      "base_region": "USA",
-      "status": 2,
-      "notes": "Also works on EUR region console."
-    },
-    {
-      "game_name": "Super Smash Bros.",
-      "game_region": "USA",
-      "base_name": "Paper Mario",
-      "base_region": "USA",
-      "status": 0,
-      "notes": "Blank ini"
-    },
-    {
-      "game_name": "Super Smash Bros.",
       "game_region": "EUR",
       "base_name": "Super Mario 64 JP/Donkey Kong 64 USA",
       "base_region": "JPN",
@@ -3255,6 +3239,30 @@
       "base_region": "USA",
       "status": 1,
       "notes": "Works perfectly fine with no gameplay or graphical issues until anything gets ko'd, in which case the game will freeze."
+    },
+    {
+      "game_name": "Super Smash Bros.",
+      "game_region": "JPN",
+      "base_name": "Mario Golf",
+      "base_region": "USA",
+      "status": 2,
+      "notes": "Also works on EUR region console."
+    },
+    {
+      "game_name": "Super Smash Bros.",
+      "game_region": "USA",
+      "base_name": "Mario Golf",
+      "base_region": "USA",
+      "status": 2,
+      "notes": "Open the ROM with an hex editor and replace gameid for the JPN gameid and use the Super Smash Bros. JPN config file already made by Nintendo, seems to work perfectly."
+    },
+    {
+      "game_name": "Super Smash Bros.",
+      "game_region": "USA",
+      "base_name": "Paper Mario",
+      "base_region": "USA",
+      "status": 0,
+      "notes": "Blank ini"
     },
     {
       "game_name": "Super Smash Bros.",
@@ -3346,6 +3354,14 @@
     },
     {
       "game_name": "The Legend of Zelda: Majora's Mask",
+      "game_region": "JPN",
+      "base_name": "The Legend of Zelda: Majora's Mask",
+      "base_region": "USA",
+      "status": 2,
+      "notes": "Use same ini file as base rom, tested on Loadiine GX2."
+    },
+    {
+      "game_name": "The Legend of Zelda: Majora's Mask",
       "game_region": "USA",
       "base_name": "Donkey Kong 64",
       "base_region": "USA",
@@ -3359,14 +3375,6 @@
       "base_region": "USA",
       "status": 2,
       "notes": "Loadiine v4 tested."
-    },
-    {
-      "game_name": "The Legend of Zelda: Majora's Mask",
-      "game_region": "JPN",
-      "base_name": "The Legend of Zelda: Majora's Mask",
-      "base_region": "USA",
-      "status": 2,
-      "notes": "Use same ini file as base rom, tested on Loadiine GX2."
     },
     {
       "game_name": "The Legend of Zelda: Majora's Mask (Debug ROM)",
@@ -3930,22 +3938,6 @@
     },
     {
       "game_name": "Yoshi's Story",
-      "game_region": "USA",
-      "base_name": "Donkey Kong",
-      "base_region": "USA",
-      "status": 2,
-      "notes": "Requires Japanese ROM header, or it softlock after the Nintendo logo."
-    },
-    {
-      "game_name": "Yoshi's Story",
-      "game_region": "USA",
-      "base_name": "Mario Golf",
-      "base_region": "USA",
-      "status": 2,
-      "notes": "Requires Japanese ROM header, or it softlock after the Nintendo logo."
-    },
-    {
-      "game_name": "Yoshi's Story",
       "game_region": "JPN",
       "base_name": "Donkey Kong",
       "base_region": "USA",
@@ -3959,6 +3951,22 @@
       "base_region": "USA",
       "status": 2,
       "notes": "None"
+    },
+    {
+      "game_name": "Yoshi's Story",
+      "game_region": "USA",
+      "base_name": "Donkey Kong",
+      "base_region": "USA",
+      "status": 2,
+      "notes": "Requires Japanese ROM header, or it softlock after the Nintendo logo."
+    },
+    {
+      "game_name": "Yoshi's Story",
+      "game_region": "USA",
+      "base_name": "Mario Golf",
+      "base_region": "USA",
+      "status": 2,
+      "notes": "Requires Japanese ROM header, or it softlock after the Nintendo logo."
     },
     {
       "game_name": "Zelda 64: Dawn and Dusk (OoT Rom Hack)",
