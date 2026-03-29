@@ -1697,6 +1697,14 @@
       "notes": "None"
     },
     {
+      "game_name": "Mario Golf",
+      "game_region": "USA",
+      "base_name": "Mario Golf",
+      "base_region": "USA",
+      "status": 1,
+      "notes": "(March 2026) when inject has Enable Widescreen set, video on TV overshoots bottom of screen; same video mirrored on Gamepad runs properly (ZestyTS' UWUVCI Version: 3.201.2)"
+    },
+    {
       "game_name": "Mario Kart 64",
       "game_region": "EUR",
       "base_name": "Super Mario 64",
