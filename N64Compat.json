@@ -1058,6 +1058,14 @@
     },
     {
       "game_name": "F-Zero X",
+      "game_region": "JPN",
+      "base_name": "F-Zero X",
+      "base_region": "USA",
+      "status": 0,
+      "notes": "(March 2026) unaltered .z64 file with additional INI freezes Wii U after splash screen (ZestyTS' UWUVCI Version: 3.201.2)"
+    },
+    {
+      "game_name": "F-Zero X",
       "game_region": "USA",
       "base_name": "Mario Golf",
       "base_region": "USA",
