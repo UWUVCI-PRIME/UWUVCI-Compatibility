@@ -1801,6 +1801,14 @@
       "notes": "Loadiine v4 tested."
     },
     {
+      "game_name": "Mario Tennis",
+      "game_region": "USA",
+      "base_name": "Mario Golf",
+      "base_region": "USA",
+      "status": 1,
+      "notes": "(March 2026) when inject with additional INI has Enable Widescreen set, video overshoots bottom on TV and Gamepad (ZestyTS' UWUVCI Version: 3.201.2)"
+    },
+    {
       "game_name": "Mario VS. Wario Ware",
       "game_region": "USA",
       "base_name": "F-Zero X",
