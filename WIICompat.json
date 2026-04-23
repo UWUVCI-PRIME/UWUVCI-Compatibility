@@ -2540,6 +2540,33 @@
     },
     {
       "gamepad": 0,
+      "game_name": "Mario Kart Wii Retro Rewind",
+      "game_region": "EUR",
+      "base_name": "Rhythm Heaven Fever",
+      "base_region": "EUR",
+      "status": 0,
+      "notes": "Blackscreen as soon as it starts"
+    },
+    {
+      "gamepad": 0,
+      "game_name": "Mario Kart Wii Retro Rewind",
+      "game_region": "EUR",
+      "base_name": "Super Paper Mario",
+      "base_region": "EUR",
+      "status": 0,
+      "notes": "Blackscreen as soon as it starts"
+    },
+    {
+      "gamepad": 0,
+      "game_name": "Mario Kart Wii Retro Rewind",
+      "game_region": "EUR",
+      "base_name": "Xenoblade Chronicles",
+      "base_region": "EUR",
+      "status": 0,
+      "notes": "Blackscreen as soon as it starts"
+    },
+    {
+      "gamepad": 0,
       "game_name": "Mario Party 8",
       "game_region": "EUR",
       "base_name": "Rhythm Heaven Fever",
