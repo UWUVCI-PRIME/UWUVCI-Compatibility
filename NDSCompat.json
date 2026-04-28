@@ -2323,6 +2323,15 @@
       "notes": "Minor GFX glitches."
     },
     {
+      "rendersize": "",
+      "game_name": "Shaun the Sheep",
+      "game_region": "USA",
+      "base_name": "WarioWare: Touched!",
+      "base_region": "USA",
+      "status": 2,
+      "notes": "(ZestyTS' UWUVCI Version: 3.201.2)"
+    },
+    {
       "rendersize": null,
       "game_name": "Shenyou Maliou DS",
       "game_region": "China",
