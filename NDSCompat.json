@@ -2324,6 +2324,15 @@
     },
     {
       "rendersize": "",
+      "game_name": "Shaun the Sheep",
+      "game_region": "USA",
+      "base_name": "WarioWare: Touched!",
+      "base_region": "USA",
+      "status": 2,
+      "notes": "(ZestyTS' UWUVCI Version: 3.201.2)"
+    },
+    {
+      "rendersize": "",
       "game_name": "Shaun the Sheep: Off His Head",
       "game_region": "EUR",
       "base_name": "Yoshi’s Island DS",
