@@ -273,6 +273,14 @@
       "notes": "Works perfectly."
     },
     {
+      "game_name": "Metroid",
+      "game_region": "USA",
+      "base_name": "Metroid",
+      "base_region": "USA",
+      "status": 1,
+      "notes": "Glitches early in gameplay; eventually screen goes black. Wii U does not freeze (ZestyTS' UWUVCI Version: 3.201.2)"
+    },
+    {
       "game_name": "Metroid + Saving (hack)",
       "game_region": "USA",
       "base_name": "Metal Slader Glory",
