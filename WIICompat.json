@@ -4192,7 +4192,7 @@
       "base_name": "Rhythm Heaven Fever",
       "base_region": "USA",
       "status": 2,
-      "notes": "Game requires CC resync, click Here for instructions. Game may not work on USA region console, try patching ISO with RegionFrii and PAL to NTSC Video Mode patch or use USA version instead."
+      "notes": "Use \"Force Classic Controller\" setting in \"Use GamePad as\" options. Game may not work on USA region console, try patching ISO with RegionFrii and PAL to NTSC Video Mode patch or use USA version instead."
     },
     {
       "gamepad": 2,
@@ -4201,7 +4201,7 @@
       "base_name": "Rhythm Heaven Fever",
       "base_region": "USA",
       "status": 2,
-      "notes": "Game requires CC resync see EUR version above for instructions. Game doesn't work on EUR region console, use EUR version instead"
+      "notes": "Use \"Force Classic Controller\" setting in \"Use GamePad as\" options. Game doesn't work on EUR region console, use EUR version instead"
     },
     {
       "gamepad": 0,
