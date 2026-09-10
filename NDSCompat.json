@@ -2710,6 +2710,15 @@
       "notes": "None"
     },
     {
+      "rendersize": "",
+      "game_name": "Timmy Time",
+      "game_region": "EUR",
+      "base_name": "Yoshi island",
+      "base_region": "ds",
+      "status": 1,
+      "notes": "Game screen is buggy with the top screen at the bottom and the bottom screen not showing some times (ZestyTS' UWUVCI Version: 3.201.2)"
+    },
+    {
       "rendersize": null,
       "game_name": "Tom and Jerry Tales",
       "game_region": "EUR",
