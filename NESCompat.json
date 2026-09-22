@@ -247,6 +247,12 @@
       "base_region": "USA",
       "status": 1,
       "notes": "Glitches early in gameplay; eventually screen goes black. Wii U does not freeze (ZestyTS' UWUVCI Version: 3.201.2)"
+      "game_name": "Kid Icarus",
+      "game_region": "USA",
+      "base_name": "Punch-Out!! Featuring Mr. Dream",
+      "base_region": "USA",
+      "status": 0,
+      "notes": "Loads to blank screen. Wii U does not freeze (ZestyTS' UWUVCI Version: 3.201.2)"
     },
     {
       "game_name": "King's Knight",
@@ -279,6 +285,14 @@
       "base_region": "USA",
       "status": 2,
       "notes": "Works perfectly."
+    },
+    {
+      "game_name": "Metroid",
+      "game_region": "USA",
+      "base_name": "Metroid",
+      "base_region": "USA",
+      "status": 1,
+      "notes": "Glitches early in gameplay; eventually screen goes black. Wii U does not freeze (ZestyTS' UWUVCI Version: 3.201.2)"
     },
     {
       "game_name": "Metroid + Saving (hack)",
@@ -417,6 +431,14 @@
       "notes": "None"
     },
     {
+      "game_name": "Super Mario Bros. 3",
+      "game_region": "USA",
+      "base_name": "EarthBound Beginnings",
+      "base_region": "USA",
+      "status": 0,
+      "notes": "Loads to blank screen. Wii U does not freeze (ZestyTS' UWUVCI Version: 3.201.2)"
+    },
+    {
       "game_name": "Teenage Mutant Ninja Turtles",
       "game_region": "USA",
       "base_name": "Punch Out!!",
@@ -463,6 +485,14 @@
       "base_region": "USA",
       "status": 2,
       "notes": "None"
+    },
+    {
+      "game_name": "Zelda II: The Adventures of Link",
+      "game_region": "USA",
+      "base_name": "Punch-Out!! Featuring Mr. Dream",
+      "base_region": "USA",
+      "status": 1,
+      "notes": "Glitches early in gameplay; eventually screen goes black. Wii U does not freeze (ZestyTS' UWUVCI Version: 3.201.2)"
     }
   ]
 }

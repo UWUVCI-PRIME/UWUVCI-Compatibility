@@ -109,6 +109,15 @@
       "notes": "Works on EUR region console using patch video mode."
     },
     {
+      "gamepad": 0,
+      "game_name": "angry birds trilogy",
+      "game_region": "USA",
+      "base_name": "Rhythm Heaven Fever",
+      "base_region": "(USA)",
+      "status": 0,
+      "notes": "Game does not appear to load. Console displays a black error screen and prompts the user to reset the system. (ZestyTS' UWUVCI Version: 3.201.2)"
+    },
+    {
       "gamepad": 1,
       "game_name": "Animal Crossing - City Folk",
       "game_region": "USA",
