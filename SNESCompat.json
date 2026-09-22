@@ -889,6 +889,14 @@
       "notes": "None"
     },
     {
+      "game_name": "Kirby Super Star",
+      "game_region": "USA",
+      "base_name": "Kirby's Dream Land 3",
+      "base_region": "USA",
+      "status": 0,
+      "notes": "Loads to blank screen; Wii U does not freeze (ZestyTS' UWUVCI Version: 3.201.2)"
+    },
+    {
       "game_name": "Kirby's Avalanche",
       "game_region": "USA",
       "base_name": "Super Metroid",
@@ -1514,14 +1522,6 @@
     },
     {
       "game_name": "Super Mario World",
-      "game_region": "USA",
-      "base_name": "Super Metroid",
-      "base_region": "USA",
-      "status": 2,
-      "notes": "None"
-    },
-    {
-      "game_name": "Super Mario World",
       "game_region": "EUR",
       "base_name": "Super Metroid",
       "base_region": "USA",
@@ -1534,6 +1534,14 @@
       "base_name": "Super Metroid",
       "base_region": "USA",
       "status": 0,
+      "notes": "None"
+    },
+    {
+      "game_name": "Super Mario World",
+      "game_region": "USA",
+      "base_name": "Super Metroid",
+      "base_region": "USA",
+      "status": 2,
       "notes": "None"
     },
     {
