@@ -893,6 +893,24 @@
     },
     {
       "gamepad": 0,
+      "game_name": "Disney Princess - Enchanted Journey",
+      "game_region": "USA",
+      "base_name": "Rhythm Heaven Fever",
+      "base_region": "USA",
+      "status": 2,
+      "notes": ""
+    },
+    {
+      "gamepad": 0,
+      "game_name": "Disney Princess - My Fairytale Adventure",
+      "game_region": "USA",
+      "base_name": "Rhythm Heaven Fever",
+      "base_region": "USA",
+      "status": 2,
+      "notes": ""
+    },
+    {
+      "gamepad": 0,
       "game_name": "Disney Tangled",
       "game_region": "EUR",
       "base_name": "Rhythm Heaven Fever",
