@@ -891,9 +891,9 @@
       "status": 2,
       "notes": "Also works on EUR region console."
     },
-        {
+    {
       "gamepad": 0,
-      "game_name": "Disney Princess - Enchanted Journey",
+      "game_name": "Disney Princess: Enchanted Journey",
       "game_region": "USA",
       "base_name": "Rhythm Heaven Fever",
       "base_region": "USA",
@@ -902,7 +902,7 @@
     },
     {
       "gamepad": 0,
-      "game_name": "Disney Princess - My Fairytale Adventure",
+      "game_name": "Disney Princess: My Fairytale Adventure",
       "game_region": "USA",
       "base_name": "Rhythm Heaven Fever",
       "base_region": "USA",
