@@ -5302,22 +5302,22 @@
       "notes": "Also works on EUR region console."
     },
     {
-      "gamepad": 0,
+      "gamepad": 1,
       "game_name": "Worms - Battle Island",
       "game_region": "EUR",
       "base_name": "Rhythm Heaven Fever",
-      "base_region": "USA",
-      "status": 0,
-      "notes": "Game uses specific cIOS on the original Wii to make game work, on WiiU game freezes at the loading screen"
+      "base_region": "EUR",
+      "status": 2,
+      "notes": "Game needs to be patched (https://github.com/jan-hofmeier/wbi-hai-patcher) else the game freezes at the loading screen. Real Wii Mote is required for initial team creation"
     },
     {
-      "gamepad": 0,
+      "gamepad": 1,
       "game_name": "Worms - Battle Island",
       "game_region": "USA",
-      "base_name": "Rhythm Heaven Fever",
-      "base_region": "USA",
-      "status": 0,
-      "notes": "Same issue as EUR/PAL version."
+      "base_name": "Pikmin 2",
+      "base_region": "EUR",
+      "status": 2,
+      "notes": "Game needs to be patched (https://github.com/jan-hofmeier/wbi-hai-patcher) else the game freezes at the loading screen. Real Wii Mote is required for initial team creation"
     },
     {
       "gamepad": 2,
