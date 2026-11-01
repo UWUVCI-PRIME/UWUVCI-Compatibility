@@ -1975,6 +1975,14 @@
       "base_region": "USA",
       "status": 2,
       "notes": "None"
+    },
+   {
+      "game_name": "Earthbound Beginnings Remake",
+      "game_region": "USA",
+      "base_name": "Donkey Kong Country",
+      "base_region": "EUR",
+      "status": 2,
+      "notes": "None"
     }
   ]
 }
